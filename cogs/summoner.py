@@ -9,6 +9,9 @@ from dotenv import load_dotenv
 from riotwatcher import LolWatcher
 from discord import Embed, Member
 
+import asyncio
+import urllib
+
 load_dotenv()
 key = str(os.getenv('RIOT_API'))
 watcher = LolWatcher(key)
@@ -71,8 +74,32 @@ class Summoner(commands.Cog):
 
         embed.set_footer(text=ctx.author.name, icon_url = ctx.author.avatar_url)
 
-
         await ctx.send(embed=embed)
+
+    @commands.command()
+    async def pretty(self, ctx, *, args):
+        champion = str(args)
+        temp_embed = discord.Embed(description=f"Fetching your profile, wait a moment...", color=0xfda5b0)
+        temp_embed.set_thumbnail(url=f'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/{champion}_1.jpg')
+        msg = await ctx.send(embed=temp_embed)
+
+        embed = discord.Embed(title=f'Profile: champion', description=f"Summary of the profile you asked for: \n \u200B", color=0xfda5b0)
+        embed.set_thumbnail(url=f'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/{champion}_1.jpg')
+        embed.add_field(name='Summoner Level', value=f'hi \n \u200B')
+        embed.add_field(name='\u200B', value='\u200B')
+        embed.add_field(name='\u200B', value='\u200B')
+        embed.add_field(name='Ranked (Solo/Duo)', value=f'hi \n \u200B')
+        embed.add_field(name='\u200B', value='\u200B')
+        embed.add_field(name='Ranked (Flex)', value=f'hi \n \u200B')
+        embed.add_field(name='\u200B', value='\u200B')
+        embed.add_field(name='Highest Champion Mastery', value=f'''
+                        **[1]** test:,
+                        **[2]** test:,
+                        **[3]** test:,
+                        \u200B''')
+        embed.add_field(name='Live Game', value='hm')
+        await asyncio.sleep(1)
+        await msg.edit(embed=embed) 
 
 
     @commands.command()
@@ -101,6 +128,34 @@ class Summoner(commands.Cog):
         embedgg.add_field(name = 'Live Game', value = f'Blue Side Players: {*blueside, } || Red Side Players: {*redside, }', inline = False)
 
         await ctx.send(embed = embedgg)
+
+    @commands.command()
+    async def champ(self, ctx, *, args):
+        champ = str(args)
+        print(champ)
+        Region = 'na1'
+        DataDragonUrl = "https://ddragon.leagueoflegends.com/api/versions.json"
+
+        PatchesData = urllib.request.urlopen(DataDragonUrl).read()
+        Patches = json.loads(PatchesData)
+        # print(Patches)
+        CurrentPatch = Patches[1]
+        # print(CurrentPatch)
+
+        ChampionData = urllib.request.urlopen(f'http://ddragon.leagueoflegends.com/cdn/{CurrentPatch}/data/en_US/champion.json').read()
+        Champions = json.loads(ChampionData)
+        print(Champions["data"]["Ahri"])
+
+        res = None
+        for sub in Champions['data']:
+            if Champions['data'][sub]['id'].casefold() == champ:
+                res = sub
+                break
+        key = Champions['data'][res]['key']
+        print(key)
+        await ctx.send(key)
+
+
             
 
 def setup(client):

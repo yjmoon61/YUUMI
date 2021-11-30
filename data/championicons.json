@@ -1,0 +1,944 @@
+[
+    {
+        "id": "Amumu",
+        "key": "32",
+        "name": "Amumu",
+        "emoji": "<:Amumu:834821953919385671>"
+    },
+    {
+        "id": "Ashe",
+        "key": "22",
+        "name": "Ashe",
+        "emoji": "<:Ashe:834821954081914961>"
+    },
+    {
+        "id": "Aatrox",
+        "key": "266",
+        "name": "Aatrox",
+        "emoji": "<:Aatrox:834821954312732672>"
+    },
+    {
+        "id": "Ahri",
+        "key": "103",
+        "name": "Ahri",
+        "emoji": "<:Ahri:834821954316926996>"
+    },
+    {
+        "id": "Akshan",
+        "key": "166",
+        "name": "Akshan",
+        "emoji": "<:Akshan:915324992542097468>"
+    },
+    {
+        "id": "AurelionSol",
+        "key": "136",
+        "name": "Aurelion Sol",
+        "emoji": "<:AurelionSol:834821954464251964>"
+    },
+    {
+        "id": "Alistar",
+        "key": "12",
+        "name": "Alistar",
+        "emoji": "<:Alistar:834821954581823538>"
+    },
+    {
+        "id": "Akali",
+        "key": "84",
+        "name": "Akali",
+        "emoji": "<:Akali:834821954707914863>"
+    },
+    {
+        "id": "Anivia",
+        "key": "34",
+        "name": "Anivia",
+        "emoji": "<:Anivia:834821954821029890>"
+    },
+    {
+        "id": "Aphelios",
+        "key": "523",
+        "name": "Aphelios",
+        "emoji": "<:Aphelios:834821954929164388>"
+    },
+    {
+        "id": "Annie",
+        "key": "1",
+        "name": "Annie",
+        "emoji": "<:Annie:834821955193667606>"
+    },
+    {
+        "id": "Braum",
+        "key": "201",
+        "name": "Braum",
+        "emoji": "<:Braum:834821977830326293>"
+    },
+    {
+        "id": "Azir",
+        "key": "268",
+        "name": "Azir",
+        "emoji": "<:Azir:834821978127859732>"
+    },
+    {
+        "id": "Chogath",
+        "key": "31",
+        "name": "Cho'Gath",
+        "emoji": "<:Chogath:834821978153943062>"
+    },
+    {
+        "id": "Brand",
+        "key": "63",
+        "name": "Brand",
+        "emoji": "<:Brand:834821978178453587>"
+    },
+    {
+        "id": "Cassiopeia",
+        "key": "69",
+        "name": "Cassiopeia",
+        "emoji": "<:Cassiopeia:834821978371915846>"
+    },
+    {
+        "id": "Camille",
+        "key": "164",
+        "name": "Camille",
+        "emoji": "<:Camille:834821978400620584>"
+    },
+    {
+        "id": "Blitzcrank",
+        "key": "53",
+        "name": "Blitzcrank",
+        "emoji": "<:Blitzcrank:834821978548076604>"
+    },
+    {
+        "id": "Corki",
+        "key": "42",
+        "name": "Corki",
+        "emoji": "<:Corki:834821978786496584>"
+    },
+    {
+        "id": "Bard",
+        "key": "432",
+        "name": "Bard",
+        "emoji": "<:Bard:834821978845872128>"
+    },
+    {
+        "id": "Caitlyn",
+        "key": "51",
+        "name": "Caitlyn",
+        "emoji": "<:Caitlyn:834821978861994004>"
+    },
+    {
+        "id": "Ekko",
+        "key": "245",
+        "name": "Ekko",
+        "emoji": "<:Ekko:834821998721892446>"
+    },
+    {
+        "id": "Ezreal",
+        "key": "81",
+        "name": "Ezreal",
+        "emoji": "<:Ezreal:834821998831206480>"
+    },
+    {
+        "id": "Draven",
+        "key": "119",
+        "name": "Draven",
+        "emoji": "<:Draven:834821998848901150>"
+    },
+    {
+        "id": "Diana",
+        "key": "131",
+        "name": "Diana",
+        "emoji": "<:Diana:834821998868693072>"
+    },
+    {
+        "id": "Fiora",
+        "key": "114",
+        "name": "Fiora",
+        "emoji": "<:Fiora:834821998873804850>"
+    },
+    {
+        "id": "Fiddlesticks",
+        "key": "9",
+        "name": "Fiddlesticks",
+        "emoji": "<:Fiddlesticks:834821998878261298>"
+    },
+    {
+        "id": "Elise",
+        "key": "60",
+        "name": "Elise",
+        "emoji": "<:Elise:834821998978269214>"
+    },
+    {
+        "id": "DrMundo",
+        "key": "36",
+        "name": "Dr. Mundo",
+        "emoji": "<:DrMundo:834821999065956353>"
+    },
+    {
+        "id": "Evelynn",
+        "key": "28",
+        "name": "Evelynn",
+        "emoji": "<:Evelynn:834821999078539315>"
+    },
+    {
+        "id": "Darius",
+        "key": "122",
+        "name": "Darius",
+        "emoji": "<:Darius:834821999230058557>"
+    },
+    {
+        "id": "Garen",
+        "key": "86",
+        "name": "Garen",
+        "emoji": "<:Garen:834822019035693147>"
+    },
+    {
+        "id": "Fizz",
+        "key": "105",
+        "name": "Fizz",
+        "emoji": "<:Fizz:834822019065315368>"
+    },
+    {
+        "id": "Graves",
+        "key": "104",
+        "name": "Graves",
+        "emoji": "<:Graves:834822019069640756>"
+    },
+    {
+        "id": "Gnar",
+        "key": "150",
+        "name": "Gnar",
+        "emoji": "<:Gnar:834822019085893632>"
+    },
+    {
+        "id": "Gangplank",
+        "key": "41",
+        "name": "Gangplank",
+        "emoji": "<:Gangplank:834822019127574530>"
+    },
+    {
+        "id": "Hecarim",
+        "key": "120",
+        "name": "Hecarim",
+        "emoji": "<:Hecarim:834822019198877766>"
+    },
+    {
+        "id": "Gwen",
+        "key": "887",
+        "name": "Gwen",
+        "emoji": "<:Gwen:834822019290759220>"
+    },
+    {
+        "id": "Galio",
+        "key": "3",
+        "name": "Galio",
+        "emoji": "<:Galio:834822019370450984>"
+    },
+    {
+        "id": "Heimerdinger",
+        "key": "74",
+        "name": "Heimerdinger",
+        "emoji": "<:Heimerdinger:834822019467051078>"
+    },
+    {
+        "id": "Gragas",
+        "key": "79",
+        "name": "Gragas",
+        "emoji": "<:Gragas:834822019774283797>"
+    },
+    {
+        "id": "JarvanIV",
+        "key": "59",
+        "name": "Jarvan IV",
+        "emoji": "<:JarvanIV:834822041877610527>"
+    },
+    {
+        "id": "Illaoi",
+        "key": "420",
+        "name": "Illaoi",
+        "emoji": "<:Illaoi:834822041978535956>"
+    },
+    {
+        "id": "Jax",
+        "key": "24",
+        "name": "Jax",
+        "emoji": "<:Jax:834822042095452160>"
+    },
+    {
+        "id": "Ivern",
+        "key": "427",
+        "name": "Ivern",
+        "emoji": "<:Ivern:834822042162561055>"
+    },
+    {
+        "id": "Jayce",
+        "key": "126",
+        "name": "Jayce",
+        "emoji": "<:Jayce:834822042208829480>"
+    },
+    {
+        "id": "Janna",
+        "key": "40",
+        "name": "Janna",
+        "emoji": "<:Janna:834822042397966376>"
+    },
+    {
+        "id": "Jhin",
+        "key": "202",
+        "name": "Jhin",
+        "emoji": "<:Jhin:834822042401767455>"
+    },
+    {
+        "id": "Jinx",
+        "key": "222",
+        "name": "Jinx",
+        "emoji": "<:Jinx:834822042591035532>"
+    },
+    {
+        "id": "Kaisa",
+        "key": "145",
+        "name": "Kai'Sa",
+        "emoji": "<:Kaisa:834822042708344832>"
+    },
+    {
+        "id": "Irelia",
+        "key": "39",
+        "name": "Irelia",
+        "emoji": "<:Irelia:834822042728661032>"
+    },
+    {
+        "id": "Karthus",
+        "key": "30",
+        "name": "Karthus",
+        "emoji": "<:Karthus:834822105076858931>"
+    },
+    {
+        "id": "Kayn",
+        "key": "141",
+        "name": "Kayn",
+        "emoji": "<:Kayn:834822105097961512>"
+    },
+    {
+        "id": "Kindred",
+        "key": "203",
+        "name": "Kindred",
+        "emoji": "<:Kindred:834822105219596309>"
+    },
+    {
+        "id": "Kennen",
+        "key": "85",
+        "name": "Kennen",
+        "emoji": "<:Kennen:834822105249742911>"
+    },
+    {
+        "id": "Kalista",
+        "key": "429",
+        "name": "Kalista",
+        "emoji": "<:Kalista:834822105282379888>"
+    },
+    {
+        "id": "Khazix",
+        "key": "121",
+        "name": "Kha'Zix",
+        "emoji": "<:Khazix:834822105362989156>"
+    },
+    {
+        "id": "Karma",
+        "key": "43",
+        "name": "Karma",
+        "emoji": "<:Karma:834822105391956028>"
+    },
+    {
+        "id": "Kassadin",
+        "key": "38",
+        "name": "Kassadin",
+        "emoji": "<:Kassadin:834822105404538961>"
+    },
+    {
+        "id": "Kayle",
+        "key": "10",
+        "name": "Kayle",
+        "emoji": "<:Kayle:834822105425772564>"
+    },
+    {
+        "id": "Katarina",
+        "key": "55",
+        "name": "Katarina",
+        "emoji": "<:Katarina:834822105794740284>"
+    },
+    {
+        "id": "Kled",
+        "key": "240",
+        "name": "Kled",
+        "emoji": "<:Kled:834822128359440395>"
+    },
+    {
+        "id": "Lux",
+        "key": "99",
+        "name": "Lux",
+        "emoji": "<:Lux:834822128376479845>"
+    },
+    {
+        "id": "Lissandra",
+        "key": "127",
+        "name": "Lissandra",
+        "emoji": "<:Lissandra:834822128384868352>"
+    },
+    {
+        "id": "Leona",
+        "key": "89",
+        "name": "Leona",
+        "emoji": "<:Leona:834822128422486086>"
+    },
+    {
+        "id": "Lucian",
+        "key": "236",
+        "name": "Lucian",
+        "emoji": "<:Lucian:834822128443588608>"
+    },
+    {
+        "id": "Lulu",
+        "key": "117",
+        "name": "Lulu",
+        "emoji": "<:Lulu:834822128494575636>"
+    },
+    {
+        "id": "Leblanc",
+        "key": "7",
+        "name": "LeBlanc",
+        "emoji": "<:Leblanc:834822128515153921>"
+    },
+    {
+        "id": "LeeSin",
+        "key": "64",
+        "name": "Lee Sin",
+        "emoji": "<:LeeSin:834822128762486834>"
+    },
+    {
+        "id": "KogMaw",
+        "key": "96",
+        "name": "Kog'Maw",
+        "emoji": "<:KogMaw:834822129127260193>"
+    },
+    {
+        "id": "Lillia",
+        "key": "876",
+        "name": "Lillia",
+        "emoji": "<:Lillia:834822129211539528>"
+    },
+    {
+        "id": "MonkeyKing",
+        "key": "62",
+        "name": "Wukong",
+        "emoji": "<:MonkeyKing:834822153894363248>"
+    },
+    {
+        "id": "MissFortune",
+        "key": "21",
+        "name": "Miss Fortune",
+        "emoji": "<:MissFortune:834822154054271077>"
+    },
+    {
+        "id": "MasterYi",
+        "key": "11",
+        "name": "Master Yi",
+        "emoji": "<:MasterYi:834822154117447690>"
+    },
+    {
+        "id": "Malphite",
+        "key": "54",
+        "name": "Malphite",
+        "emoji": "<:Malphite:834822154217455617>"
+    },
+    {
+        "id": "Nasus",
+        "key": "75",
+        "name": "Nasus",
+        "emoji": "<:Nasus:834822154222436472>"
+    },
+    {
+        "id": "Mordekaiser",
+        "key": "82",
+        "name": "Mordekaiser",
+        "emoji": "<:Mordekaiser:834822154368450600>"
+    },
+    {
+        "id": "Malzahar",
+        "key": "90",
+        "name": "Malzahar",
+        "emoji": "<:Malzahar:834822154440671303>"
+    },
+    {
+        "id": "Morgana",
+        "key": "25",
+        "name": "Morgana",
+        "emoji": "<:Morgana:834822154599661609>"
+    },
+    {
+        "id": "Maokai",
+        "key": "57",
+        "name": "Maokai",
+        "emoji": "<:Maokai:834822154696654908>"
+    },
+    {
+        "id": "Nami",
+        "key": "267",
+        "name": "Nami",
+        "emoji": "<:Nami:834822155401035813>"
+    },
+    {
+        "id": "Nunu",
+        "key": "20",
+        "name": "Nunu & Willump",
+        "emoji": "<:Nunu:834822181384093697>"
+    },
+    {
+        "id": "Poppy",
+        "key": "78",
+        "name": "Poppy",
+        "emoji": "<:Poppy:834822181413191731>"
+    },
+    {
+        "id": "Ornn",
+        "key": "516",
+        "name": "Ornn",
+        "emoji": "<:Ornn:834822181778227290>"
+    },
+    {
+        "id": "Nocturne",
+        "key": "56",
+        "name": "Nocturne",
+        "emoji": "<:Nocturne:834822181779013632>"
+    },
+    {
+        "id": "Nidalee",
+        "key": "76",
+        "name": "Nidalee",
+        "emoji": "<:Nidalee:834822181921488976>"
+    },
+    {
+        "id": "Orianna",
+        "key": "61",
+        "name": "Orianna",
+        "emoji": "<:Orianna:834822181950193684>"
+    },
+    {
+        "id": "Pantheon",
+        "key": "80",
+        "name": "Pantheon",
+        "emoji": "<:Pantheon:834822182202769478>"
+    },
+    {
+        "id": "Neeko",
+        "key": "518",
+        "name": "Neeko",
+        "emoji": "<:Neeko:834822182268960800>"
+    },
+    {
+        "id": "Nautilus",
+        "key": "111",
+        "name": "Nautilus",
+        "emoji": "<:Nautilus:834822182274203670>"
+    },
+    {
+        "id": "Olaf",
+        "key": "2",
+        "name": "Olaf",
+        "emoji": "<:Olaf:834822182374342677>"
+    },
+    {
+        "id": "Quinn",
+        "key": "133",
+        "name": "Quinn",
+        "emoji": "<:Quinn:834822217429942333>"
+    },
+    {
+        "id": "RekSai",
+        "key": "421",
+        "name": "Rek'Sai",
+        "emoji": "<:RekSai:834822217727475712>"
+    },
+    {
+        "id": "Qiyana",
+        "key": "246",
+        "name": "Qiyana",
+        "emoji": "<:Qiyana:834822217727737967>"
+    },
+    {
+        "id": "Riven",
+        "key": "92",
+        "name": "Riven",
+        "emoji": "<:Riven:834822217820799096>"
+    },
+    {
+        "id": "Rell",
+        "key": "526",
+        "name": "Rell",
+        "emoji": "<:Rell:834822217871130635>"
+    },
+    {
+        "id": "Rakan",
+        "key": "497",
+        "name": "Rakan",
+        "emoji": "<:Rakan:834822217903767562>"
+    },
+    {
+        "id": "Rengar",
+        "key": "107",
+        "name": "Rengar",
+        "emoji": "<:Rengar:834822217904422952>"
+    },
+    {
+        "id": "Pyke",
+        "key": "555",
+        "name": "Pyke",
+        "emoji": "<:Pyke:834822218012950548>"
+    },
+    {
+        "id": "Renekton",
+        "key": "58",
+        "name": "Renekton",
+        "emoji": "<:Renekton:834822218440638504>"
+    },
+    {
+        "id": "Rammus",
+        "key": "33",
+        "name": "Rammus",
+        "emoji": "<:Rammus:834822218554933298>"
+    },
+    {
+        "id": "Rumble",
+        "key": "68",
+        "name": "Rumble",
+        "emoji": "<:Rumble:834822286087422032>"
+    },
+    {
+        "id": "Shaco",
+        "key": "35",
+        "name": "Shaco",
+        "emoji": "<:Shaco:834822286146142263>"
+    },
+    {
+        "id": "Shyvana",
+        "key": "102",
+        "name": "Shyvana",
+        "emoji": "<:Shyvana:834822286250737704>"
+    },
+    {
+        "id": "Sejuani",
+        "key": "113",
+        "name": "Sejuani",
+        "emoji": "<:Sejuani:834822286267514880>"
+    },
+    {
+        "id": "Ryze",
+        "key": "13",
+        "name": "Ryze",
+        "emoji": "<:Ryze:834822286342619177>"
+    },
+    {
+        "id": "Shen",
+        "key": "98",
+        "name": "Shen",
+        "emoji": "<:Shen:834822286343143434>"
+    },
+    {
+        "id": "Senna",
+        "key": "235",
+        "name": "Senna",
+        "emoji": "<:Senna:834822286472511530>"
+    },
+    {
+        "id": "Samira",
+        "key": "360",
+        "name": "Samira",
+        "emoji": "<:Samira:834822286552858684>"
+    },
+    {
+        "id": "Sett",
+        "key": "875",
+        "name": "Sett",
+        "emoji": "<:Sett:834822286703591484>"
+    },
+    {
+        "id": "Seraphine",
+        "key": "147",
+        "name": "Seraphine",
+        "emoji": "<:Seraphine:834822286874902558>"
+    },
+    {
+        "id": "Skarner",
+        "key": "72",
+        "name": "Skarner",
+        "emoji": "<:Skarner:834822315542839347>"
+    },
+    {
+        "id": "Sion",
+        "key": "14",
+        "name": "Sion",
+        "emoji": "<:Sion:834822315568660521>"
+    },
+    {
+        "id": "Singed",
+        "key": "27",
+        "name": "Singed",
+        "emoji": "<:Singed:834822315590025257>"
+    },
+    {
+        "id": "Syndra",
+        "key": "134",
+        "name": "Syndra",
+        "emoji": "<:Syndra:834822315610603551>"
+    },
+    {
+        "id": "Swain",
+        "key": "50",
+        "name": "Swain",
+        "emoji": "<:Swain:834822315790696509>"
+    },
+    {
+        "id": "Soraka",
+        "key": "16",
+        "name": "Soraka",
+        "emoji": "<:Soraka:834822315844960306>"
+    },
+    {
+        "id": "Sivir",
+        "key": "15",
+        "name": "Sivir",
+        "emoji": "<:Sivir:834822315912986644>"
+    },
+    {
+        "id": "Sona",
+        "key": "37",
+        "name": "Sona",
+        "emoji": "<:Sona:834822316185485372>"
+    },
+    {
+        "id": "Sylas",
+        "key": "517",
+        "name": "Sylas",
+        "emoji": "<:Sylas:834822316227690506>"
+    },
+    {
+        "id": "TahmKench",
+        "key": "223",
+        "name": "Tahm Kench",
+        "emoji": "<:TahmKench:834822316516704306>"
+    },
+    {
+        "id": "Trundle",
+        "key": "48",
+        "name": "Trundle",
+        "emoji": "<:Trundle:834822377308553227>"
+    },
+    {
+        "id": "Tryndamere",
+        "key": "23",
+        "name": "Tryndamere",
+        "emoji": "<:Tryndamere:834822377640296540>"
+    },
+    {
+        "id": "Teemo",
+        "key": "17",
+        "name": "Teemo",
+        "emoji": "<:Teemo:834822377674244096>"
+    },
+    {
+        "id": "Twitch",
+        "key": "29",
+        "name": "Twitch",
+        "emoji": "<:Twitch:834822377703342132>"
+    },
+    {
+        "id": "Taric",
+        "key": "44",
+        "name": "Taric",
+        "emoji": "<:Taric:834822377757081690>"
+    },
+    {
+        "id": "Thresh",
+        "key": "412",
+        "name": "Thresh",
+        "emoji": "<:Thresh:834822377887891467>"
+    },
+    {
+        "id": "Tristana",
+        "key": "18",
+        "name": "Tristana",
+        "emoji": "<:Tristana:834822377945825355>"
+    },
+    {
+        "id": "TwistedFate",
+        "key": "4",
+        "name": "Twisted Fate",
+        "emoji": "<:TwistedFate:834822378080698469>"
+    },
+    {
+        "id": "Talon",
+        "key": "91",
+        "name": "Talon",
+        "emoji": "<:Talon:834822378142957679>"
+    },
+    {
+        "id": "Taliyah",
+        "key": "163",
+        "name": "Taliyah",
+        "emoji": "<:Taliyah:834822378470768731>"
+    },
+    {
+        "id": "Udyr",
+        "key": "77",
+        "name": "Udyr",
+        "emoji": "<:Udyr:834822418916573254>"
+    },
+    {
+        "id": "Urgot",
+        "key": "6",
+        "name": "Urgot",
+        "emoji": "<:Urgot:834822418933088366>"
+    },
+    {
+        "id": "Vayne",
+        "key": "67",
+        "name": "Vayne",
+        "emoji": "<:Vayne:834822419105054741>"
+    },
+    {
+        "id": "Viego",
+        "key": "234",
+        "name": "Viego",
+        "emoji": "<:Viego:834822419193528360>"
+    },
+    {
+        "id": "Veigar",
+        "key": "45",
+        "name": "Veigar",
+        "emoji": "<:Veigar:834822419344392192>"
+    },
+    {
+        "id": "Vex",
+        "key": "711",
+        "name": "Vex",
+        "emoji": "<:Vex:915325005917728800>"
+    },
+    {
+        "id": "Vladimir",
+        "key": "8",
+        "name": "Vladimir",
+        "emoji": "<:Vladimir:834822419352911892>"
+    },
+    {
+        "id": "Viktor",
+        "key": "112",
+        "name": "Viktor",
+        "emoji": "<:Viktor:834822419364708363>"
+    },
+    {
+        "id": "Velkoz",
+        "key": "161",
+        "name": "Vel'Koz",
+        "emoji": "<:Velkoz:834822419428016179>"
+    },
+    {
+        "id": "Vi",
+        "key": "254",
+        "name": "Vi",
+        "emoji": "<:Vi:834822419536412763>"
+    },
+    {
+        "id": "Varus",
+        "key": "110",
+        "name": "Varus",
+        "emoji": "<:Varus:834822419948372018>"
+    },
+    {
+        "id": "Yuumi",
+        "key": "350",
+        "name": "Yuumi",
+        "emoji": "<:Yuumi:834822449593974825>"
+    },
+    {
+        "id": "XinZhao",
+        "key": "5",
+        "name": "Xin Zhao",
+        "emoji": "<:XinZhao:834822449870012446>"
+    },
+    {
+        "id": "Volibear",
+        "key": "106",
+        "name": "Volibear",
+        "emoji": "<:Volibear:834822449919950968>"
+    },
+    {
+        "id": "Zac",
+        "key": "154",
+        "name": "Zac",
+        "emoji": "<:Zac:834822450058887188>"
+    },
+    {
+        "id": "Yasuo",
+        "key": "157",
+        "name": "Yasuo",
+        "emoji": "<:Yasuo:834822450142642199>"
+    },
+    {
+        "id": "Warwick",
+        "key": "19",
+        "name": "Warwick",
+        "emoji": "<:Warwick:834822450402426941>"
+    },
+    {
+        "id": "Xerath",
+        "key": "101",
+        "name": "Xerath",
+        "emoji": "<:Xerath:834822450453676082>"
+    },
+    {
+        "id": "Xayah",
+        "key": "498",
+        "name": "Xayah",
+        "emoji": "<:Xayah:834822450477793320>"
+    },
+    {
+        "id": "Yone",
+        "key": "777",
+        "name": "Yone",
+        "emoji": "<:Yone:834822450624593970>"
+    },
+    {
+        "id": "Yorick",
+        "key": "83",
+        "name": "Yorick",
+        "emoji": "<:Yorick:834822450675712071>"
+    },
+    {
+        "id": "Zoe",
+        "key": "142",
+        "name": "Zoe",
+        "emoji": "<:Zoe:834822492472213536>"
+    },
+    {
+        "id": "Ziggs",
+        "key": "115",
+        "name": "Ziggs",
+        "emoji": "<:Ziggs:834822492593061919>"
+    },
+    {
+        "id": "Zilean",
+        "key": "26",
+        "name": "Zilean",
+        "emoji": "<:Zilean:834822492697919528>"
+    },
+    {
+        "id": "Zyra",
+        "key": "143",
+        "name": "Zyra",
+        "emoji": "<:Zyra:834822492710895636>"
+    },
+    {
+        "id": "Zed",
+        "key": "238",
+        "name": "Zed",
+        "emoji": "<:Zed:834822493004759140>"
+    }
+]
