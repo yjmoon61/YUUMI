@@ -8,11 +8,11 @@ import os
 load_dotenv()
 token = str(os.getenv('TOKEN'))
 
-client = commands.Bot(command_prefix='!', help_command=None)
+client = commands.Bot(command_prefix='y- ', help_command=None)
 
 @tasks.loop(seconds=120.0)
 async def my_background_task():
-    await client.change_presence(activity=discord.Activity(type=discord.ActivityType.playing, name='!help'))
+    await client.change_presence(activity=discord.Activity(type=discord.ActivityType.playing, name='y- help'))
     await asyncio.sleep(60)
     await client.change_presence(activity=discord.Activity(type=discord.ActivityType.playing, name='on patch: 11.9'))
 

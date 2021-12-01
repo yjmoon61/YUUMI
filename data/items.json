@@ -1,0 +1,1238 @@
+[
+    {
+      "ID": "Boots",
+      "EMOJIREVEALER": "\\:1001:",
+      "EMOJICODE": "<:1001:915358384608411668>",
+      "KEY": 1001
+    },
+    {
+      "ID": "Faerie Charm",
+      "EMOJIREVEALER": "\\:1004:",
+      "EMOJICODE": "<:1004:915358384155402271>",
+      "KEY": 1004
+    },
+    {
+      "ID": "Rejuvenation Bead",
+      "EMOJIREVEALER": "\\:1006:",
+      "EMOJICODE": "<:1006:915358384402886677>",
+      "KEY": 1006
+    },
+    {
+      "ID": "Giant's Belt",
+      "EMOJIREVEALER": "\\:1011:",
+      "EMOJICODE": "<:1011:915358384281227317>",
+      "KEY": 1011
+    },
+    {
+      "ID": "Cloak of Agility",
+      "EMOJIREVEALER": "\\:1018:",
+      "EMOJICODE": "<:1018:915358384553861130>",
+      "KEY": 1018
+    },
+    {
+      "ID": "Blasting Wand",
+      "EMOJIREVEALER": "\\:1026:",
+      "EMOJICODE": "<:1026:915358384516104312>",
+      "KEY": 1026
+    },
+    {
+      "ID": "Sapphire Crystal",
+      "EMOJIREVEALER": "\\:1027:",
+      "EMOJICODE": "<:1027:915358384369324053>",
+      "KEY": 1027
+    },
+    {
+      "ID": "Ruby Crystal",
+      "EMOJIREVEALER": "\\:1028:",
+      "EMOJICODE": "<:1028:915358384532910150>",
+      "KEY": 1028
+    },
+    {
+      "ID": "Cloth Armor",
+      "EMOJIREVEALER": "\\:1029:",
+      "EMOJICODE": "<:1029:915358384528707624>",
+      "KEY": 1029
+    },
+    {
+      "ID": "Chain Vest",
+      "EMOJIREVEALER": "\\:1031:",
+      "EMOJICODE": "<:1031:915358384650334238>",
+      "KEY": 1031
+    },
+    {
+      "ID": "Null-Magic Mantle",
+      "EMOJIREVEALER": "\\:1033:",
+      "EMOJICODE": "<:1033:915358384641957948>",
+      "KEY": 1033
+    },
+    {
+      "ID": "Emberknife",
+      "EMOJIREVEALER": "\\:1035:",
+      "EMOJICODE": "<:1035:915358384612597840>",
+      "KEY": 1035
+    },
+    {
+      "ID": "Long Sword",
+      "EMOJIREVEALER": "\\:1036:",
+      "EMOJICODE": "<:1036:915358384591634473>",
+      "KEY": 1036
+    },
+    {
+      "ID": "Pickaxe",
+      "EMOJIREVEALER": "\\:1037:",
+      "EMOJICODE": "<:1037:915358384587419678>",
+      "KEY": 1037
+    },
+    {
+      "ID": "B. F. Sword",
+      "EMOJIREVEALER": "\\:1038:",
+      "EMOJICODE": "<:1038:915358384721649694>",
+      "KEY": 1038
+    },
+    {
+      "ID": "Hailblade",
+      "EMOJIREVEALER": "\\:1039:",
+      "EMOJICODE": "<:1039:915358384616800266>",
+      "KEY": 1039
+    },
+    {
+      "ID": "Obsidian Edge",
+      "EMOJIREVEALER": "\\:1040:",
+      "EMOJICODE": "<:1040:915358384608383027>",
+      "KEY": 1040
+    },
+    {
+      "ID": "Dagger",
+      "EMOJIREVEALER": "\\:1042:",
+      "EMOJICODE": "<:1042:915358384600006716>",
+      "KEY": 1042
+    },
+    {
+      "ID": "Recurve Bow",
+      "EMOJIREVEALER": "\\:1043:",
+      "EMOJICODE": "<:1043:915358384830681088>",
+      "KEY": 1043
+    },
+    {
+      "ID": "Amplifying Tome",
+      "EMOJIREVEALER": "\\:1052:",
+      "EMOJICODE": "<:1052:915358384704856074>",
+      "KEY": 1052
+    },
+    {
+      "ID": "Vampiric Scepter",
+      "EMOJIREVEALER": "\\:1053:",
+      "EMOJICODE": "<:1053:915358384402890773>",
+      "KEY": 1053
+    },
+    {
+      "ID": "Doran's Shield",
+      "EMOJIREVEALER": "\\:1054:",
+      "EMOJICODE": "<:1054:915358384755204106>",
+      "KEY": 1054
+    },
+    {
+      "ID": "Doran's Blade",
+      "EMOJIREVEALER": "\\:1055:",
+      "EMOJICODE": "<:1055:915358384998449202>",
+      "KEY": 1055
+    },
+    {
+      "ID": "Doran's Ring",
+      "EMOJIREVEALER": "\\:1056:",
+      "EMOJICODE": "<:1056:915358384683909130>",
+      "KEY": 1056
+    },
+    {
+      "ID": "Negatron Cloak",
+      "EMOJIREVEALER": "\\:1057:",
+      "EMOJICODE": "<:1057:915358384725835846>",
+      "KEY": 1057
+    },
+    {
+      "ID": "Needlessly Large Rod",
+      "EMOJIREVEALER": "\\:1058:",
+      "EMOJICODE": "<:1058:915358384717439046>",
+      "KEY": 1058
+    },
+    {
+      "ID": "Dark Seal",
+      "EMOJIREVEALER": "\\:1082:",
+      "EMOJICODE": "<:1082:915358384411267093>",
+      "KEY": 1082
+    },
+    {
+      "ID": "Cull",
+      "EMOJIREVEALER": "\\:1083:",
+      "EMOJICODE": "<:1083:915358384662908948>",
+      "KEY": 1083
+    },
+    {
+      "ID": "Health Potion",
+      "EMOJIREVEALER": "\\:2003:",
+      "EMOJICODE": "<:2003:915358384662929448>",
+      "KEY": 2003
+    },
+    {
+      "ID": "Total Biscuit of Everlasting Will",
+      "EMOJIREVEALER": "\\:2010:",
+      "EMOJICODE": "<:2010:915358384763584563>",
+      "KEY": 2010
+    },
+    {
+      "ID": "Kircheis Shard",
+      "EMOJIREVEALER": "\\:2015:",
+      "EMOJICODE": "<:2015:915358384675500093>",
+      "KEY": 2015
+    },
+    {
+      "ID": "Refillable Potion",
+      "EMOJIREVEALER": "\\:2031:",
+      "EMOJICODE": "<:2031:915358384688103484>",
+      "KEY": 2031
+    },
+    {
+      "ID": "Corrupting Potion",
+      "EMOJIREVEALER": "\\:2033:",
+      "EMOJICODE": "<:2033:915358384780357632>",
+      "KEY": 2033
+    },
+    {
+      "ID": "Guardian's Horn",
+      "EMOJIREVEALER": "\\:2051:",
+      "EMOJICODE": "<:2051:915358384616779777>",
+      "KEY": 2051
+    },
+    {
+      "ID": "Poro-Snax",
+      "EMOJIREVEALER": "\\:2052:",
+      "EMOJICODE": "<:2052:915358384683900988>",
+      "KEY": 2052
+    },
+    {
+      "ID": "Control Ward",
+      "EMOJIREVEALER": "\\:2055:",
+      "EMOJICODE": "<:2055:915358384696463360>",
+      "KEY": 2055
+    },
+    {
+      "ID": "Shurelya's Battlesong",
+      "EMOJIREVEALER": "\\:2065:",
+      "EMOJICODE": "<:2065:915358384713240637>",
+      "KEY": 2065
+    },
+    {
+      "ID": "Elixir of Iron",
+      "EMOJIREVEALER": "\\:2138:",
+      "EMOJICODE": "<:2138:915358384562270321>",
+      "KEY": 2138
+    },
+    {
+      "ID": "Elixir of Sorcery",
+      "EMOJIREVEALER": "\\:2139:",
+      "EMOJICODE": "<:2139:915358384813916201>",
+      "KEY": 2139
+    },
+    {
+      "ID": "Elixir of Wrath",
+      "EMOJIREVEALER": "\\:2140:",
+      "EMOJICODE": "<:2140:915358384746795058>",
+      "KEY": 2140
+    },
+    {
+      "ID": "Minion Dematerializer",
+      "EMOJIREVEALER": "\\:2403:",
+      "EMOJICODE": "<:2403:915358384671297588>",
+      "KEY": 2403
+    },
+    {
+      "ID": "Commencing Stopwatch",
+      "EMOJIREVEALER": "\\:2419:",
+      "EMOJICODE": "<:2419:915358384780369970>",
+      "KEY": 2419
+    },
+    {
+      "ID": "Stopwatch",
+      "EMOJIREVEALER": "\\:2420:",
+      "EMOJICODE": "<:2420:915358384444833813>",
+      "KEY": 2420
+    },
+    {
+      "ID": "Broken Stopwatch",
+      "EMOJIREVEALER": "\\:2421:",
+      "EMOJICODE": "<:2421:915358384755187802>",
+      "KEY": 2421
+    },
+    {
+      "ID": "Slightly Magical Footwear",
+      "EMOJIREVEALER": "\\:2422:",
+      "EMOJICODE": "<:2422:915358384751018037>",
+      "KEY": 2422
+    },
+    {
+      "ID": "Perfectly Timed Stopwatch",
+      "EMOJIREVEALER": "\\:2423:",
+      "EMOJICODE": "<:2423:915358384885207040>",
+      "KEY": 2423
+    },
+    {
+      "ID": "Broken Stopwatch",
+      "EMOJIREVEALER": "\\:2424:",
+      "EMOJICODE": "<:2424:915358384776183888>",
+      "KEY": 2424
+    },
+    {
+      "ID": "Evenshroud",
+      "EMOJIREVEALER": "\\:3001:",
+      "EMOJICODE": "<:3001:915358384801333279>",
+      "KEY": 3001
+    },
+    {
+      "ID": "Archangel's Staff",
+      "EMOJIREVEALER": "\\:3003:",
+      "EMOJICODE": "<:3003:915358384780361759>",
+      "KEY": 3003
+    },
+    {
+      "ID": "Manamune",
+      "EMOJIREVEALER": "\\:3004:",
+      "EMOJICODE": "<:3004:915358384574857297>",
+      "KEY": 3004
+    },
+    {
+      "ID": "Berserker's Greaves",
+      "EMOJIREVEALER": "\\:3006:",
+      "EMOJICODE": "<:3006:915358526682071100>",
+      "KEY": 3006
+    },
+    {
+      "ID": "Boots of Swiftness",
+      "EMOJIREVEALER": "\\:3009:",
+      "EMOJICODE": "<:3009:915358526703022110>",
+      "KEY": 3009
+    },
+    {
+      "ID": "Chemtech Putrifier",
+      "EMOJIREVEALER": "\\:3011:",
+      "EMOJICODE": "<:3011:915358526849818644>",
+      "KEY": 3011
+    },
+    {
+      "ID": "Sorcerer's Shoes",
+      "EMOJIREVEALER": "\\:3020:",
+      "EMOJICODE": "<:3020:915358526778515466>",
+      "KEY": 3020
+    },
+    {
+      "ID": "Glacial Buckler",
+      "EMOJIREVEALER": "\\:3024:",
+      "EMOJICODE": "<:3024:915358526644310017>",
+      "KEY": 3024
+    },
+    {
+      "ID": "Guardian Angel",
+      "EMOJIREVEALER": "\\:3026:",
+      "EMOJICODE": "<:3026:915358526371667969>",
+      "KEY": 3026
+    },
+    {
+      "ID": "Infinity Edge",
+      "EMOJIREVEALER": "\\:3031:",
+      "EMOJICODE": "<:3031:915358526824677466>",
+      "KEY": 3031
+    },
+    {
+      "ID": "Mortal Reminder",
+      "EMOJIREVEALER": "\\:3033:",
+      "EMOJICODE": "<:3033:915358526732398592>",
+      "KEY": 3033
+    },
+    {
+      "ID": "Last Whisper",
+      "EMOJIREVEALER": "\\:3035:",
+      "EMOJICODE": "<:3035:915358526770147338>",
+      "KEY": 3035
+    },
+    {
+      "ID": "Lord Dominik's Regards",
+      "EMOJIREVEALER": "\\:3036:",
+      "EMOJICODE": "<:3036:915358526791118859>",
+      "KEY": 3036
+    },
+    {
+      "ID": "Seraph's Embrace",
+      "EMOJIREVEALER": "\\:3040:",
+      "EMOJICODE": "<:3040:915358526803681300>",
+      "KEY": 3040
+    },
+    {
+      "ID": "Mejai's Soulstealer",
+      "EMOJIREVEALER": "\\:3041:",
+      "EMOJICODE": "<:3041:915358526753366057>",
+      "KEY": 3041
+    },
+    {
+      "ID": "Muramana",
+      "EMOJIREVEALER": "\\:3042:",
+      "EMOJICODE": "<:3042:915358526568808480>",
+      "KEY": 3042
+    },
+    {
+      "ID": "Phage",
+      "EMOJIREVEALER": "\\:3044:",
+      "EMOJICODE": "<:3044:915358526749155398>",
+      "KEY": 3044
+    },
+    {
+      "ID": "Phantom Dancer",
+      "EMOJIREVEALER": "\\:3046:",
+      "EMOJICODE": "<:3046:915358526765957140>",
+      "KEY": 3046
+    },
+    {
+      "ID": "Plated Steelcaps",
+      "EMOJIREVEALER": "\\:3047:",
+      "EMOJICODE": "<:3047:915358526761758761>",
+      "KEY": 3047
+    },
+    {
+      "ID": "Zeke's Convergence",
+      "EMOJIREVEALER": "\\:3050:",
+      "EMOJICODE": "<:3050:915358526854008842>",
+      "KEY": 3050
+    },
+    {
+      "ID": "Hearthbound Axe",
+      "EMOJIREVEALER": "\\:3051:",
+      "EMOJICODE": "<:3051:915358526568820817>",
+      "KEY": 3051
+    },
+    {
+      "ID": "Sterak's Gage",
+      "EMOJIREVEALER": "\\:3053:",
+      "EMOJICODE": "<:3053:915358526795317258>",
+      "KEY": 3053
+    },
+    {
+      "ID": "Sheen",
+      "EMOJIREVEALER": "\\:3057:",
+      "EMOJICODE": "<:3057:915358526875000843>",
+      "KEY": 3057
+    },
+    {
+      "ID": "Spirit Visage",
+      "EMOJIREVEALER": "\\:3065:",
+      "EMOJICODE": "<:3065:915358526543630407>",
+      "KEY": 3065
+    },
+    {
+      "ID": "Winged Moonplate",
+      "EMOJIREVEALER": "\\:3066:",
+      "EMOJICODE": "<:3066:915358526812078090>",
+      "KEY": 3066
+    },
+    {
+      "ID": "Kindlegem",
+      "EMOJIREVEALER": "\\:3067:",
+      "EMOJICODE": "<:3067:915358526812069898>",
+      "KEY": 3067
+    },
+    {
+      "ID": "Sunfire Aegis",
+      "EMOJIREVEALER": "\\:3068:",
+      "EMOJICODE": "<:3068:915358526786916393>",
+      "KEY": 3068
+    },
+    {
+      "ID": "Tear of the Goddess",
+      "EMOJIREVEALER": "\\:3070:",
+      "EMOJICODE": "<:3070:915358526799511612>",
+      "KEY": 3070
+    },
+    {
+      "ID": "Black Cleaver",
+      "EMOJIREVEALER": "\\:3071:",
+      "EMOJICODE": "<:3071:915358526812073984>",
+      "KEY": 3071
+    },
+    {
+      "ID": "Bloodthirster",
+      "EMOJIREVEALER": "\\:3072:",
+      "EMOJICODE": "<:3072:915358526564597851>",
+      "KEY": 3072
+    },
+    {
+      "ID": "Ravenous Hydra",
+      "EMOJIREVEALER": "\\:3074:",
+      "EMOJICODE": "<:3074:915358526824648725>",
+      "KEY": 3074
+    },
+    {
+      "ID": "Thornmail",
+      "EMOJIREVEALER": "\\:3075:",
+      "EMOJICODE": "<:3075:915358527097303080>",
+      "KEY": 3075
+    },
+    {
+      "ID": "Bramble Vest",
+      "EMOJIREVEALER": "\\:3076:",
+      "EMOJICODE": "<:3076:915358526933704784>",
+      "KEY": 3076
+    },
+    {
+      "ID": "Tiamat",
+      "EMOJIREVEALER": "\\:3077:",
+      "EMOJICODE": "<:3077:915358526946283541>",
+      "KEY": 3077
+    },
+    {
+      "ID": "Trinity Force",
+      "EMOJIREVEALER": "\\:3078:",
+      "EMOJICODE": "<:3078:915358526824652820>",
+      "KEY": 3078
+    },
+    {
+      "ID": "Warden's Mail",
+      "EMOJIREVEALER": "\\:3082:",
+      "EMOJICODE": "<:3082:915358526862393404>",
+      "KEY": 3082
+    },
+    {
+      "ID": "Warmog's Armor",
+      "EMOJIREVEALER": "\\:3083:",
+      "EMOJICODE": "<:3083:915358526862413876>",
+      "KEY": 3083
+    },
+    {
+      "ID": "Runaan's Hurricane",
+      "EMOJIREVEALER": "\\:3085:",
+      "EMOJICODE": "<:3085:915358526845628426>",
+      "KEY": 3085
+    },
+    {
+      "ID": "Zeal",
+      "EMOJIREVEALER": "\\:3086:",
+      "EMOJICODE": "<:3086:915358526858215424>",
+      "KEY": 3086
+    },
+    {
+      "ID": "Rabadon's Deathcap",
+      "EMOJIREVEALER": "\\:3089:",
+      "EMOJICODE": "<:3089:915358526770147379>",
+      "KEY": 3089
+    },
+    {
+      "ID": "Wit's End",
+      "EMOJIREVEALER": "\\:3091:",
+      "EMOJICODE": "<:3091:915358526895972382>",
+      "KEY": 3091
+    },
+    {
+      "ID": "Rapid Firecannon",
+      "EMOJIREVEALER": "\\:3094:",
+      "EMOJICODE": "<:3094:915358526514282557>",
+      "KEY": 3094
+    },
+    {
+      "ID": "Stormrazor",
+      "EMOJIREVEALER": "\\:3095:",
+      "EMOJICODE": "<:3095:915358526883368970>",
+      "KEY": 3095
+    },
+    {
+      "ID": "Lich Bane",
+      "EMOJIREVEALER": "\\:3100:",
+      "EMOJICODE": "<:3100:915358527021809675>",
+      "KEY": 3100
+    },
+    {
+      "ID": "Banshee's Veil",
+      "EMOJIREVEALER": "\\:3102:",
+      "EMOJICODE": "<:3102:915358526950490202>",
+      "KEY": 3102
+    },
+    {
+      "ID": "Aegis of the Legion",
+      "EMOJIREVEALER": "\\:3105:",
+      "EMOJICODE": "<:3105:915358527034359878>",
+      "KEY": 3105
+    },
+    {
+      "ID": "Redemption",
+      "EMOJIREVEALER": "\\:3107:",
+      "EMOJICODE": "<:3107:915358526577205280>",
+      "KEY": 3107
+    },
+    {
+      "ID": "Fiendish Codex",
+      "EMOJIREVEALER": "\\:3108:",
+      "EMOJICODE": "<:3108:915358526887579648>",
+      "KEY": 3108
+    },
+    {
+      "ID": "Knight's Vow",
+      "EMOJIREVEALER": "\\:3109:",
+      "EMOJICODE": "<:3109:915358526925332520>",
+      "KEY": 3109
+    },
+    {
+      "ID": "Frozen Heart",
+      "EMOJIREVEALER": "\\:3110:",
+      "EMOJICODE": "<:3110:915358526929514536>",
+      "KEY": 3110
+    },
+    {
+      "ID": "Mercury's Treads",
+      "EMOJIREVEALER": "\\:3111:",
+      "EMOJICODE": "<:3111:915358527080513606>",
+      "KEY": 3111
+    },
+    {
+      "ID": "Guardian's Orb",
+      "EMOJIREVEALER": "\\:3112:",
+      "EMOJICODE": "<:3112:915358527063744542>",
+      "KEY": 3112
+    },
+    {
+      "ID": "Aether Wisp",
+      "EMOJIREVEALER": "\\:3113:",
+      "EMOJICODE": "<:3113:915358526954676264>",
+      "KEY": 3113
+    },
+    {
+      "ID": "Forbidden Idol",
+      "EMOJIREVEALER": "\\:3114:",
+      "EMOJICODE": "<:3114:915358850566217788>",
+      "KEY": 3114
+    },
+    {
+      "ID": "Nashor's Tooth",
+      "EMOJIREVEALER": "\\:3115:",
+      "EMOJICODE": "<:3115:915358850574602260>",
+      "KEY": 3115
+    },
+    {
+      "ID": "Rylai's Crystal Scepter",
+      "EMOJIREVEALER": "\\:3116:",
+      "EMOJICODE": "<:3116:915358850582978630>",
+      "KEY": 3116
+    },
+    {
+      "ID": "Mobility Boots",
+      "EMOJIREVEALER": "\\:3117:",
+      "EMOJICODE": "<:3117:915358850750746684>",
+      "KEY": 3117
+    },
+    {
+      "ID": "Winter's Approach",
+      "EMOJIREVEALER": "\\:3119:",
+      "EMOJICODE": "<:3119:915358850469724171>",
+      "KEY": 3119
+    },
+    {
+      "ID": "Fimbulwinter",
+      "EMOJIREVEALER": "\\:3121:",
+      "EMOJICODE": "<:3121:915358850251653132>",
+      "KEY": 3121
+    },
+    {
+      "ID": "Executioner's Calling",
+      "EMOJIREVEALER": "\\:3123:",
+      "EMOJICODE": "<:3123:915358850780135455>",
+      "KEY": 3123
+    },
+    {
+      "ID": "Guinsoo's Rageblade",
+      "EMOJIREVEALER": "\\:3124:",
+      "EMOJICODE": "<:3124:915358850692050994>",
+      "KEY": 3124
+    },
+    {
+      "ID": "Caulfield's Warhammer",
+      "EMOJIREVEALER": "\\:3133:",
+      "EMOJICODE": "<:3133:915358850671071262>",
+      "KEY": 3133
+    },
+    {
+      "ID": "Serrated Dirk",
+      "EMOJIREVEALER": "\\:3134:",
+      "EMOJICODE": "<:3134:915358850754969641>",
+      "KEY": 3134
+    },
+    {
+      "ID": "Void Staff",
+      "EMOJIREVEALER": "\\:3135:",
+      "EMOJICODE": "<:3135:915358850784313454>",
+      "KEY": 3135
+    },
+    {
+      "ID": "Mercurial Scimitar",
+      "EMOJIREVEALER": "\\:3139:",
+      "EMOJICODE": "<:3139:915358850612330547>",
+      "KEY": 3139
+    },
+    {
+      "ID": "Quicksilver Sash",
+      "EMOJIREVEALER": "\\:3140:",
+      "EMOJICODE": "<:3140:915358850721411092>",
+      "KEY": 3140
+    },
+    {
+      "ID": "Youmuu's Ghostblade",
+      "EMOJIREVEALER": "\\:3142:",
+      "EMOJICODE": "<:3142:915358850666876988>",
+      "KEY": 3142
+    },
+    {
+      "ID": "Randuin's Omen",
+      "EMOJIREVEALER": "\\:3143:",
+      "EMOJICODE": "<:3143:915358850536833036>",
+      "KEY": 3143
+    },
+    {
+      "ID": "Hextech Alternator",
+      "EMOJIREVEALER": "\\:3145:",
+      "EMOJICODE": "<:3145:915358850792701952>",
+      "KEY": 3145
+    },
+    {
+      "ID": "Hextech Rocketbelt",
+      "EMOJIREVEALER": "\\:3152:",
+      "EMOJICODE": "<:3152:915358850469740565>",
+      "KEY": 3152
+    },
+    {
+      "ID": "Blade of The Ruined King",
+      "EMOJIREVEALER": "\\:3153:",
+      "EMOJICODE": "<:3153:915358850310357023>",
+      "KEY": 3153
+    },
+    {
+      "ID": "Hexdrinker",
+      "EMOJIREVEALER": "\\:3155:",
+      "EMOJICODE": "<:3155:915358850671083580>",
+      "KEY": 3155
+    },
+    {
+      "ID": "Maw of Malmortius",
+      "EMOJIREVEALER": "\\:3156:",
+      "EMOJICODE": "<:3156:915358850666860554>",
+      "KEY": 3156
+    },
+    {
+      "ID": "Zhonya's Hourglass",
+      "EMOJIREVEALER": "\\:3157:",
+      "EMOJICODE": "<:3157:915358850754961470>",
+      "KEY": 3157
+    },
+    {
+      "ID": "Ionian Boots of Lucidity",
+      "EMOJIREVEALER": "\\:3158:",
+      "EMOJICODE": "<:3158:915358850683658250>",
+      "KEY": 3158
+    },
+    {
+      "ID": "Morellonomicon",
+      "EMOJIREVEALER": "\\:3165:",
+      "EMOJICODE": "<:3165:915358850373288019>",
+      "KEY": 3165
+    },
+    {
+      "ID": "Guardian's Blade",
+      "EMOJIREVEALER": "\\:3177:",
+      "EMOJICODE": "<:3177:915358850327146558>",
+      "KEY": 3177
+    },
+    {
+      "ID": "Umbral Glaive",
+      "EMOJIREVEALER": "\\:3179:",
+      "EMOJICODE": "<:3179:915358850478145547>",
+      "KEY": 3179
+    },
+    {
+      "ID": "Hullbreaker",
+      "EMOJIREVEALER": "\\:3181:",
+      "EMOJICODE": "<:3181:915358850654302279>",
+      "KEY": 3181
+    },
+    {
+      "ID": "Guardian's Hammer",
+      "EMOJIREVEALER": "\\:3184:",
+      "EMOJICODE": "<:3184:915358850465558539>",
+      "KEY": 3184
+    },
+    {
+      "ID": "Locket of the Iron Solari",
+      "EMOJIREVEALER": "\\:3190:",
+      "EMOJICODE": "<:3190:915358850704625664>",
+      "KEY": 3190
+    },
+    {
+      "ID": "Seeker's Armguard",
+      "EMOJIREVEALER": "\\:3191:",
+      "EMOJICODE": "<:3191:915358850721398844>",
+      "KEY": 3191
+    },
+    {
+      "ID": "Gargoyle Stoneplate",
+      "EMOJIREVEALER": "\\:3193:",
+      "EMOJICODE": "<:3193:915358850796912640>",
+      "KEY": 3193
+    },
+    {
+      "ID": "Spectre's Cowl",
+      "EMOJIREVEALER": "\\:3211:",
+      "EMOJICODE": "<:3211:915358850713026620>",
+      "KEY": 3211
+    },
+    {
+      "ID": "Mikael's Blessing",
+      "EMOJIREVEALER": "\\:3222:",
+      "EMOJICODE": "<:3222:915358850658471967>",
+      "KEY": 3222
+    },
+    {
+      "ID": "Scarecrow Effigy",
+      "EMOJIREVEALER": "\\:3330:",
+      "EMOJICODE": "<:3330:915358851094695987>",
+      "KEY": 3330
+    },
+    {
+      "ID": "Stealth Ward",
+      "EMOJIREVEALER": "\\:3340:",
+      "EMOJICODE": "<:3340:915358850788503552>",
+      "KEY": 3340
+    },
+    {
+      "ID": "Farsight Alteration",
+      "EMOJIREVEALER": "\\:3363:",
+      "EMOJICODE": "<:3363:915358850830450718>",
+      "KEY": 3363
+    },
+    {
+      "ID": "Oracle Lens",
+      "EMOJIREVEALER": "\\:3364:",
+      "EMOJICODE": "<:3364:915358850738159617>",
+      "KEY": 3364
+    },
+    {
+      "ID": "Your Cut",
+      "EMOJIREVEALER": "\\:3400:",
+      "EMOJICODE": "<:3400:915358850801086514>",
+      "KEY": 3400
+    },
+    {
+      "ID": "Ardent Censer",
+      "EMOJIREVEALER": "\\:3504:",
+      "EMOJICODE": "<:3504:915358850876600331>",
+      "KEY": 3504
+    },
+    {
+      "ID": "Essence Reaver",
+      "EMOJIREVEALER": "\\:3508:",
+      "EMOJICODE": "<:3508:915358850847215676>",
+      "KEY": 3508
+    },
+    {
+      "ID": "Eye of the Herald",
+      "EMOJIREVEALER": "\\:3513:",
+      "EMOJICODE": "<:3513:915358850792697957>",
+      "KEY": 3513
+    },
+    {
+      "ID": "Kalista's Black Spear",
+      "EMOJIREVEALER": "\\:3599:",
+      "EMOJICODE": "<:3599:915358851115651072>",
+      "KEY": 3599
+    },
+    {
+      "ID": "Kalista's Black Spear",
+      "EMOJIREVEALER": "\\:3600:",
+      "EMOJICODE": "<:3600:915358850771734528>",
+      "KEY": 3600
+    },
+    {
+      "ID": "Dead Man's Plate",
+      "EMOJIREVEALER": "\\:3742:",
+      "EMOJICODE": "<:3742:915358850503286846>",
+      "KEY": 3742
+    },
+    {
+      "ID": "Titanic Hydra",
+      "EMOJIREVEALER": "\\:3748:",
+      "EMOJICODE": "<:3748:915358850801094746>",
+      "KEY": 3748
+    },
+    {
+      "ID": "Crystalline Bracer",
+      "EMOJIREVEALER": "\\:3801:",
+      "EMOJICODE": "<:3801:915358850436173937>",
+      "KEY": 3801
+    },
+    {
+      "ID": "Lost Chapter",
+      "EMOJIREVEALER": "\\:3802:",
+      "EMOJICODE": "<:3802:915358850918514758>",
+      "KEY": 3802
+    },
+    {
+      "ID": "Edge of Night",
+      "EMOJIREVEALER": "\\:3814:",
+      "EMOJICODE": "<:3814:915358850696249425>",
+      "KEY": 3814
+    },
+    {
+      "ID": "Spellthief's Edge",
+      "EMOJIREVEALER": "\\:3850:",
+      "EMOJICODE": "<:3850:915358850796896266>",
+      "KEY": 3850
+    },
+    {
+      "ID": "Frostfang",
+      "EMOJIREVEALER": "\\:3851:",
+      "EMOJICODE": "<:3851:915358850834628629>",
+      "KEY": 3851
+    },
+    {
+      "ID": "Shard of True Ice",
+      "EMOJIREVEALER": "\\:3853:",
+      "EMOJICODE": "<:3853:915358850524254209>",
+      "KEY": 3853
+    },
+    {
+      "ID": "Steel Shoulderguards",
+      "EMOJIREVEALER": "\\:3854:",
+      "EMOJICODE": "<:3854:915359053398556752>",
+      "KEY": 3854
+    },
+    {
+      "ID": "Runesteel Spaulders",
+      "EMOJIREVEALER": "\\:3855:",
+      "EMOJICODE": "<:3855:915359053385973770>",
+      "KEY": 3855
+    },
+    {
+      "ID": "Pauldrons of Whiterock",
+      "EMOJIREVEALER": "\\:3857:",
+      "EMOJICODE": "<:3857:915359053415333938>",
+      "KEY": 3857
+    },
+    {
+      "ID": "Relic Shield",
+      "EMOJIREVEALER": "\\:3858:",
+      "EMOJICODE": "<:3858:915359053570506783>",
+      "KEY": 3858
+    },
+    {
+      "ID": "Targon's Buckler",
+      "EMOJIREVEALER": "\\:3859:",
+      "EMOJICODE": "<:3859:915359053423710228>",
+      "KEY": 3859
+    },
+    {
+      "ID": "Bulwark of the Mountain",
+      "EMOJIREVEALER": "\\:3860:",
+      "EMOJICODE": "<:3860:915359053625057300>",
+      "KEY": 3860
+    },
+    {
+      "ID": "Spectral Sickle",
+      "EMOJIREVEALER": "\\:3862:",
+      "EMOJICODE": "<:3862:915359053406961784>",
+      "KEY": 3862
+    },
+    {
+      "ID": "Harrowing Crescent",
+      "EMOJIREVEALER": "\\:3863:",
+      "EMOJICODE": "<:3863:915359053083979837>",
+      "KEY": 3863
+    },
+    {
+      "ID": "Black Mist Scythe",
+      "EMOJIREVEALER": "\\:3864:",
+      "EMOJICODE": "<:3864:915359053474045982>",
+      "KEY": 3864
+    },
+    {
+      "ID": "Oblivion Orb",
+      "EMOJIREVEALER": "\\:3916:",
+      "EMOJICODE": "<:3916:915359053457264680>",
+      "KEY": 3916
+    },
+    {
+      "ID": "Imperial Mandate",
+      "EMOJIREVEALER": "\\:4005:",
+      "EMOJICODE": "<:4005:915359053432094740>",
+      "KEY": 4005
+    },
+    {
+      "ID": "Force of Nature",
+      "EMOJIREVEALER": "\\:4401:",
+      "EMOJICODE": "<:4401:915359053440512060>",
+      "KEY": 4401
+    },
+    {
+      "ID": "The Golden Spatula",
+      "EMOJIREVEALER": "\\:4403:",
+      "EMOJICODE": "<:4403:915359053520175124>",
+      "KEY": 4403
+    },
+    {
+      "ID": "Horizon Focus",
+      "EMOJIREVEALER": "\\:4628:",
+      "EMOJICODE": "<:4628:915359053490823178>",
+      "KEY": 4628
+    },
+    {
+      "ID": "Cosmic Drive",
+      "EMOJIREVEALER": "\\:4629:",
+      "EMOJICODE": "<:4629:915359053406961675>",
+      "KEY": 4629
+    },
+    {
+      "ID": "Blighting Jewel",
+      "EMOJIREVEALER": "\\:4630:",
+      "EMOJICODE": "<:4630:915359053486620682>",
+      "KEY": 4630
+    },
+    {
+      "ID": "Verdant Barrier",
+      "EMOJIREVEALER": "\\:4632:",
+      "EMOJICODE": "<:4632:915359053532766238>",
+      "KEY": 4632
+    },
+    {
+      "ID": "Riftmaker",
+      "EMOJIREVEALER": "\\:4633:",
+      "EMOJICODE": "<:4633:915359053063020566>",
+      "KEY": 4633
+    },
+    {
+      "ID": "Leeching Leer",
+      "EMOJIREVEALER": "\\:4635:",
+      "EMOJICODE": "<:4635:915359053255954483>",
+      "KEY": 4635
+    },
+    {
+      "ID": "Night Harvester",
+      "EMOJIREVEALER": "\\:4636:",
+      "EMOJICODE": "<:4636:915359053683785768>",
+      "KEY": 4636
+    },
+    {
+      "ID": "Demonic Embrace",
+      "EMOJIREVEALER": "\\:4637:",
+      "EMOJICODE": "<:4637:915359053566324746>",
+      "KEY": 4637
+    },
+    {
+      "ID": "Watchful Wardstone",
+      "EMOJIREVEALER": "\\:4638:",
+      "EMOJICODE": "<:4638:915359053511794688>",
+      "KEY": 4638
+    },
+    {
+      "ID": "Bandleglass Mirror",
+      "EMOJIREVEALER": "\\:4642:",
+      "EMOJICODE": "<:4642:915359053503410176>",
+      "KEY": 4642
+    },
+    {
+      "ID": "Vigilant Wardstone",
+      "EMOJIREVEALER": "\\:4643:",
+      "EMOJICODE": "<:4643:915359053541171280>",
+      "KEY": 4643
+    },
+    {
+      "ID": "Crown of the Shattered Queen",
+      "EMOJIREVEALER": "\\:4644:",
+      "EMOJICODE": "<:4644:915359053314674769>",
+      "KEY": 4644
+    },
+    {
+      "ID": "Shadowflame",
+      "EMOJIREVEALER": "\\:4645:",
+      "EMOJICODE": "<:4645:915359053578911764>",
+      "KEY": 4645
+    },
+    {
+      "ID": "Ironspike Whip",
+      "EMOJIREVEALER": "\\:6029:",
+      "EMOJICODE": "<:6029:915359053549568020>",
+      "KEY": 6029
+    },
+    {
+      "ID": "Silvermere Dawn",
+      "EMOJIREVEALER": "\\:6035:",
+      "EMOJICODE": "<:6035:915359053499219979>",
+      "KEY": 6035
+    },
+    {
+      "ID": "Death's Dance",
+      "EMOJIREVEALER": "\\:6333:",
+      "EMOJICODE": "<:6333:915359053197226085>",
+      "KEY": 6333
+    },
+    {
+      "ID": "Chempunk Chainsword",
+      "EMOJIREVEALER": "\\:6609:",
+      "EMOJICODE": "<:6609:915359053553737769>",
+      "KEY": 6609
+    },
+    {
+      "ID": "Staff of Flowing Water",
+      "EMOJIREVEALER": "\\:6616:",
+      "EMOJICODE": "<:6616:915359053562122310>",
+      "KEY": 6616
+    },
+    {
+      "ID": "Moonstone Renewer",
+      "EMOJIREVEALER": "\\:6617:",
+      "EMOJICODE": "<:6617:915359053620842496>",
+      "KEY": 6617
+    },
+    {
+      "ID": "Goredrinker",
+      "EMOJIREVEALER": "\\:6630:",
+      "EMOJICODE": "<:6630:915359053583110144>",
+      "KEY": 6630
+    },
+    {
+      "ID": "Stridebreaker",
+      "EMOJIREVEALER": "\\:6631:",
+      "EMOJICODE": "<:6631:915359053159497819>",
+      "KEY": 6631
+    },
+    {
+      "ID": "Divine Sunderer",
+      "EMOJIREVEALER": "\\:6632:",
+      "EMOJICODE": "<:6632:915359053629231164>",
+      "KEY": 6632
+    },
+    {
+      "ID": "Liandry's Anguish",
+      "EMOJIREVEALER": "\\:6653:",
+      "EMOJICODE": "<:6653:915359053562150932>",
+      "KEY": 6653
+    },
+    {
+      "ID": "Luden's Tempest",
+      "EMOJIREVEALER": "\\:6655:",
+      "EMOJICODE": "<:6655:915359053268525067>",
+      "KEY": 6655
+    },
+    {
+      "ID": "Everfrost",
+      "EMOJIREVEALER": "\\:6656:",
+      "EMOJICODE": "<:6656:915359053591486475>",
+      "KEY": 6656
+    },
+    {
+      "ID": "Bami's Cinder",
+      "EMOJIREVEALER": "\\:6660:",
+      "EMOJICODE": "<:6660:915359053654405130>",
+      "KEY": 6660
+    },
+    {
+      "ID": "Frostfire Gauntlet",
+      "EMOJIREVEALER": "\\:6662:",
+      "EMOJICODE": "<:6662:915359053549539359>",
+      "KEY": 6662
+    },
+    {
+      "ID": "Turbo Chemtank",
+      "EMOJIREVEALER": "\\:6664:",
+      "EMOJICODE": "<:6664:915359053365002251>",
+      "KEY": 6664
+    },
+    {
+      "ID": "Noonquiver",
+      "EMOJIREVEALER": "\\:6670:",
+      "EMOJICODE": "<:6670:915359053671182356>",
+      "KEY": 6670
+    },
+    {
+      "ID": "Galeforce",
+      "EMOJIREVEALER": "\\:6671:",
+      "EMOJICODE": "<:6671:915359053625049098>",
+      "KEY": 6671
+    },
+    {
+      "ID": "Kraken Slayer",
+      "EMOJIREVEALER": "\\:6672:",
+      "EMOJICODE": "<:6672:915359053625061376>",
+      "KEY": 6672
+    },
+    {
+      "ID": "Immortal Shieldbow",
+      "EMOJIREVEALER": "\\:6673:",
+      "EMOJICODE": "<:6673:915359053738278943>",
+      "KEY": 6673
+    },
+    {
+      "ID": "Navori Quickblades",
+      "EMOJIREVEALER": "\\:6675:",
+      "EMOJICODE": "<:6675:915359053679562763>",
+      "KEY": 6675
+    },
+    {
+      "ID": "The Collector",
+      "EMOJIREVEALER": "\\:6676:",
+      "EMOJICODE": "<:6676:915359053864116255>",
+      "KEY": 6676
+    },
+    {
+      "ID": "Rageknife",
+      "EMOJIREVEALER": "\\:6677:",
+      "EMOJICODE": "<:6677:915359053687976018>",
+      "KEY": 6677
+    },
+    {
+      "ID": "Duskblade of Draktharr",
+      "EMOJIREVEALER": "\\:6691:",
+      "EMOJICODE": "<:6691:915359053230796831>",
+      "KEY": 6691
+    },
+    {
+      "ID": "Eclipse",
+      "EMOJIREVEALER": "\\:6692:",
+      "EMOJICODE": "<:6692:915359053792817172>",
+      "KEY": 6692
+    },
+    {
+      "ID": "Prowler's Claw",
+      "EMOJIREVEALER": "\\:6693:",
+      "EMOJICODE": "<:6693:915359147824914464>",
+      "KEY": 6693
+    },
+    {
+      "ID": "Serylda's Grudge",
+      "EMOJIREVEALER": "\\:6694:",
+      "EMOJICODE": "<:6694:915359145824223372>",
+      "KEY": 6694
+    },
+    {
+      "ID": "Serpent's Fang",
+      "EMOJIREVEALER": "\\:6695:",
+      "EMOJICODE": "<:6695:915359145916526714>",
+      "KEY": 6695
+    },
+    {
+      "ID": "Axiom Arc",
+      "EMOJIREVEALER": "\\:6696:",
+      "EMOJICODE": "<:6696:915359145882972220>",
+      "KEY": 6696
+    },
+    {
+      "ID": "Anathema's Chains",
+      "EMOJIREVEALER": "\\:8001:",
+      "EMOJICODE": "<:8001:915359145903915038>",
+      "KEY": 8001
+    },
+    {
+      "ID": "Abyssal Mask",
+      "EMOJIREVEALER": "\\:8020:",
+      "EMOJICODE": "<:8020:915359145773903893>",
+      "KEY": 8020
+    }
+  ]
