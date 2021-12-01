@@ -139,12 +139,12 @@ class Summoner(commands.Cog):
         PatchesData = urllib.request.urlopen(DataDragonUrl).read()
         Patches = json.loads(PatchesData)
         # print(Patches)
-        CurrentPatch = Patches[1]
+        CurrentPatch = Patches[0]
         # print(CurrentPatch)
 
         ChampionData = urllib.request.urlopen(f'http://ddragon.leagueoflegends.com/cdn/{CurrentPatch}/data/en_US/champion.json').read()
         Champions = json.loads(ChampionData)
-        print(Champions["data"]["Ahri"])
+        # print(Champions["data"]["Ahri"])
 
         res = None
         for sub in Champions['data']:
@@ -154,8 +154,6 @@ class Summoner(commands.Cog):
         key = Champions['data'][res]['key']
         print(key)
         await ctx.send(key)
-
-
             
 
 def setup(client):

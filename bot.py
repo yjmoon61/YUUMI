@@ -24,5 +24,6 @@ async def on_ready():
 
 client.load_extension('cogs.fun')
 client.load_extension('cogs.summoner')
+client.load_extension('cogs.skins')
 
 client.run(token)
