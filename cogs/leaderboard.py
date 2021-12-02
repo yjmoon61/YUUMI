@@ -37,6 +37,7 @@ class Leaderboard(commands.Cog):
 
     @commands.command()
     async def add(self, ctx, region=None, *, summoner=None):
+        server_id = ctx.message.guild.id
         user_id = ctx.author.id
         regions = ['euw', 'br', 'na', 'eune', 'jp', 'las', 'lan', 'oce', 'tr', 'kr', 'ru']
         
@@ -61,13 +62,13 @@ class Leaderboard(commands.Cog):
                     port=port)
                 
                 cur = connection.cursor()
-                cur.execute(f"""SELECT * FROM profile WHERE user_id = '{user_id}'""")
+                cur.execute(f"""SELECT * FROM profile WHERE server = '{server_id}' AND user_id = '{user_id}'""")
                 data = cur.fetchone()
                 if data is not None:
                     await ctx.send("You already have a summoner added to your account!") 
                 else:
-                    cur.execute(f"""INSERT INTO profile(user_id, region, summoner)
-                                VALUES ('{user_id}', '{region}', '{summoner}')""")
+                    cur.execute(f"""INSERT INTO profile(server, user_id, region, summoner)
+                                VALUES ('{server_id}', '{user_id}', '{region}', '{summoner}')""")
                     connection.commit()
                     cur.close()
                     
@@ -91,6 +92,7 @@ class Leaderboard(commands.Cog):
 
     @commands.command()
     async def remove(self, ctx):
+        server_id = ctx.message.guild.id
         user_id = ctx.author.id
         try:
             conn = pymysql.connect(
@@ -101,7 +103,7 @@ class Leaderboard(commands.Cog):
                 port=port)
             
             cur = conn.cursor()
-            cur.execute(f"""SELECT * FROM profile WHERE user_id = '{user_id}'""")
+            cur.execute(f"""SELECT * FROM profile WHERE server = '{server_id}' AND user_id = '{user_id}'""")
             data = cur.fetchone()
             if data is None:
                 await ctx.send("You don't have a summoner added to your account.")
@@ -111,7 +113,7 @@ class Leaderboard(commands.Cog):
                 summoner = profile_data[2]
                 embed=discord.Embed(title=f'Removed', description=f"**{summoner} [{region.upper()}] has been removed from your account!** \n \u200B \n To link a new summoner, use the `y- add` command.", color=0xfda5b0)
                 await ctx.send(embed=embed)
-                cur.execute(f"""DELETE FROM profile WHERE user_id = '{user_id}'""")
+                cur.execute(f"""DELETE FROM profile WHERE server = '{server_id}' AND user_id = '{user_id}'""")
                 conn.commit()
                 cur.close()
         except pymysql.connect.Error as err:
@@ -122,6 +124,7 @@ class Leaderboard(commands.Cog):
 
     @commands.command()
     async def leaderboard(self, ctx):
+        server_id = ctx.message.guild.id
         user_id = ctx.author.id
         try:
             conn = pymysql.connect(
@@ -132,18 +135,19 @@ class Leaderboard(commands.Cog):
                 port=port)
             
             cur = conn.cursor()
-            cur.execute(f"""SELECT * FROM profile""")
+            cur.execute(f"""SELECT * FROM profile WHERE server = '{server_id}'""")
             data = cur.fetchall()
             if data is None:
                 await ctx.send("There are no summoners added.")
             else:
+                print(data)
                 users = []
                 regions = []
                 summoners = []
                 for x in range(len(data)):
-                    users.append(data[x][0])
-                    regions.append(data[x][1])
-                    summoners.append(data[x][2])
+                    users.append(data[x][1])
+                    regions.append(data[x][2])
+                    summoners.append(data[x][3])
 
                 DataDragonUrl = "https://ddragon.leagueoflegends.com/api/versions.json"
 
@@ -177,11 +181,20 @@ class Leaderboard(commands.Cog):
                     lp.append(stats[n]['leaguePoints'])
 
                 tiers = {'CHALLENGER':'1','GRANDMASTER':'2', 'MASTER':'3', 'DIAMOND':'4', 'PLATINUM':'5', 'GOLD':'6', 'SILVER':'7', 'BRONZE':'8', 'IRON':'9'}
+                ranks = {'I':'1','II':'2','III':'3','IV':'4'}
+
+                tier_number = []
+                rank_number = []
                 for x in range(len(tier)):
                     for k,v in tiers.items():
-                        if tier[x].lower() == k:
-                            server.append(v)
-                print(server) 
+                        if tier[x] == k:
+                            tier_number.append(v)
+                    for k,v in ranks.items():
+                        if rank[x] == k:
+                            rank_number.append(v)
+
+                print(tier_number) 
+                print(rank_number)
 
                 embedgg = discord.Embed(
                     title = f"***LEADERBOARD***", 
@@ -191,10 +204,11 @@ class Leaderboard(commands.Cog):
                 keys = [summonerName, tier, rank, lp]
                 order = []
                 for x in range(len(data)):
-                    order.append([summonerName[x],tier[x],rank[x],lp[x]])
+                    order.append([summonerName[x],tier_number[x],rank_number[x],lp[x]])
 
                 ordered = sorted(order, key=itemgetter)
                 print(order)
+                print(ordered)
 
         except pymysql.connect.Error as err:
             print("Something went wrong: {}".format(err))
