@@ -1,6 +1,6 @@
 from datetime import datetime
 import discord
-from discord.ext import commands, menus
+from discord.ext import commands
 import json
 import traceback
 import re
@@ -55,7 +55,7 @@ class Skins(commands.Cog):
         # print(Champions["data"]["Ahri"])
 
         for sub in Champions['data']:
-            if Champions['data'][sub]['id'].casefold() == champ:
+            if Champions['data'][sub]['id'].casefold() == champ.casefold():
                 properName = Champions['data'][sub]['id']
         # print(properName)
 

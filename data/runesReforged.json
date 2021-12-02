@@ -1,0 +1,446 @@
+[
+    {
+      "ID": "Domination",
+      "EMOJIREVEALER": "\\:Domination:",
+      "EMOJICODE": "<:Domination:915358346524123167>",
+      "KEY": 8100
+    },
+    {
+      "ID": "Electrocute",
+      "EMOJIREVEALER": "\\:Electrocute:",
+      "EMOJICODE": "<:Electrocute:915358348281520138>",
+      "KEY": 8112
+    },
+    {
+      "ID": "Predator",
+      "EMOJIREVEALER": "\\:Predator:",
+      "EMOJICODE": "<:Predator:915358648560156672>",
+      "KEY": 8124
+    },
+    {
+      "ID": "DarkHarvest",
+      "EMOJIREVEALER": "\\:DarkHarvest:",
+      "EMOJICODE": "<:DarkHarvest:915358347857891369>",
+      "KEY": 8128
+    },
+    {
+      "ID": "HailOfBlades",
+      "EMOJIREVEALER": "\\:HailOfBlades:",
+      "EMOJICODE": "<:HailOfBlades:915358348222791732>",
+      "KEY": 9923
+    },
+    {
+      "ID": "CheapShot",
+      "EMOJIREVEALER": "\\:CheapShot:",
+      "EMOJICODE": "<:CheapShot:915358347186802708>",
+      "KEY": 8126
+    },
+    {
+      "ID": "TasteOfBlood",
+      "EMOJIREVEALER": "\\:TasteOfBlood:",
+      "EMOJICODE": "<:TasteOfBlood:915358347509788742>",
+      "KEY": 8139
+    },
+    {
+      "ID": "SuddenImpact",
+      "EMOJIREVEALER": "\\:SuddenImpact:",
+      "EMOJICODE": "<:SuddenImpact:915358648006508554>",
+      "KEY": 8143
+    },
+    {
+      "ID": "ZombieWard",
+      "EMOJIREVEALER": "\\:ZombieWard:",
+      "EMOJICODE": "<:ZombieWard:915358648241389619>",
+      "KEY": 8136
+    },
+    {
+      "ID": "GhostPoro",
+      "EMOJIREVEALER": "\\:GhostPoro:",
+      "EMOJICODE": "<:GhostPoro:915358347081961526>",
+      "KEY": 8120
+    },
+    {
+      "ID": "EyeballCollection",
+      "EMOJIREVEALER": "\\:EyeballCollection:",
+      "EMOJICODE": "<:EyeballCollection:915358347379740753>",
+      "KEY": 8138
+    },
+    {
+      "ID": "RavenousHunter",
+      "EMOJIREVEALER": "\\:RavenousHunter:",
+      "EMOJICODE": "<:RavenousHunter:915358647956152360>",
+      "KEY": 8135
+    },
+    {
+      "ID": "IngeniousHunter",
+      "EMOJIREVEALER": "\\:IngeniousHunter:",
+      "EMOJICODE": "<:IngeniousHunter:915358347656589393>",
+      "KEY": 8134
+    },
+    {
+      "ID": "RelentlessHunter",
+      "EMOJIREVEALER": "\\:RelentlessHunter:",
+      "EMOJICODE": "<:RelentlessHunter:915358648002301972>",
+      "KEY": 8105
+    },
+    {
+      "ID": "UltimateHunter",
+      "EMOJIREVEALER": "\\:UltimateHunter:",
+      "EMOJICODE": "<:UltimateHunter:915358647901642813>",
+      "KEY": 8106
+    },
+    {
+      "ID": "Inspiration",
+      "EMOJIREVEALER": "\\:Inspiration:",
+      "EMOJICODE": "<:Inspiration:915358346536689665>",
+      "KEY": 8300
+    },
+    {
+      "ID": "GlacialAugment",
+      "EMOJIREVEALER": "\\:GlacialAugment:",
+      "EMOJICODE": "<:GlacialAugment:915358348323487744>",
+      "KEY": 8351
+    },
+    {
+      "ID": "UnsealedSpellbook",
+      "EMOJIREVEALER": "\\:UnsealedSpellbook:",
+      "EMOJICODE": "<:UnsealedSpellbook:915358648501436416>",
+      "KEY": 8360
+    },
+    {
+      "ID": "FirstStrike",
+      "EMOJIREVEALER": "\\:FirstStrike:",
+      "EMOJICODE": "<:FirstStrike:915358348176658432>",
+      "KEY": 8369
+    },
+    {
+      "ID": "HextechFlashtraption",
+      "EMOJIREVEALER": "\\:HextechFlashtraption:",
+      "EMOJICODE": "<:HextechFlashtraption:915358347606237204>",
+      "KEY": 8306
+    },
+    {
+      "ID": "MagicalFootwear",
+      "EMOJIREVEALER": "\\:MagicalFootwear:",
+      "EMOJICODE": "<:MagicalFootwear:915358347518160957>",
+      "KEY": 8304
+    },
+    {
+      "ID": "PerfectTiming",
+      "EMOJIREVEALER": "\\:PerfectTiming:",
+      "EMOJICODE": "<:PerfectTiming:915358647930982400>",
+      "KEY": 8313
+    },
+    {
+      "ID": "FuturesMarket",
+      "EMOJIREVEALER": "\\:FuturesMarket:",
+      "EMOJICODE": "<:FuturesMarket:915358347337814018>",
+      "KEY": 8321
+    },
+    {
+      "ID": "MinionDematerializer",
+      "EMOJIREVEALER": "\\:MinionDematerializer:",
+      "EMOJICODE": "<:MinionDematerializer:915358347643994123>",
+      "KEY": 8316
+    },
+    {
+      "ID": "BiscuitDelivery",
+      "EMOJIREVEALER": "\\:BiscuitDelivery:",
+      "EMOJICODE": "<:BiscuitDelivery:915358346876428299>",
+      "KEY": 8345
+    },
+    {
+      "ID": "CosmicInsight",
+      "EMOJIREVEALER": "\\:CosmicInsight:",
+      "EMOJICODE": "<:CosmicInsight:915358347128090634>",
+      "KEY": 8347
+    },
+    {
+      "ID": "ApproachVelocity",
+      "EMOJIREVEALER": "\\:ApproachVelocity:",
+      "EMOJICODE": "<:ApproachVelocity:915358346977108038>",
+      "KEY": 8410
+    },
+    {
+      "ID": "TimeWarpTonic",
+      "EMOJIREVEALER": "\\:TimeWarpTonic:",
+      "EMOJICODE": "<:TimeWarpTonic:915358648182661180>",
+      "KEY": 8352
+    },
+    {
+      "ID": "Precision",
+      "EMOJIREVEALER": "\\:Precision:",
+      "EMOJICODE": "<:Precision:915358346918371369>",
+      "KEY": 8000
+    },
+    {
+      "ID": "PressTheAttack",
+      "EMOJIREVEALER": "\\:PressTheAttack:",
+      "EMOJICODE": "<:PressTheAttack:915358648648204338>",
+      "KEY": 8005
+    },
+    {
+      "ID": "LethalTempo",
+      "EMOJIREVEALER": "\\:LethalTempo:",
+      "EMOJICODE": "<:LethalTempo:915358348537380925>",
+      "KEY": 8008
+    },
+    {
+      "ID": "FleetFootwork",
+      "EMOJIREVEALER": "\\:FleetFootwork:",
+      "EMOJICODE": "<:FleetFootwork:915358348625473546>",
+      "KEY": 8021
+    },
+    {
+      "ID": "Conqueror",
+      "EMOJIREVEALER": "\\:Conqueror:",
+      "EMOJICODE": "<:Conqueror:915358348046659676>",
+      "KEY": 8010
+    },
+    {
+      "ID": "Overheal",
+      "EMOJIREVEALER": "\\:Overheal:",
+      "EMOJICODE": "<:Overheal:915358647838707783>",
+      "KEY": 9101
+    },
+    {
+      "ID": "Triumph",
+      "EMOJIREVEALER": "\\:Triumph:",
+      "EMOJICODE": "<:Triumph:915358648132325436>",
+      "KEY": 9111
+    },
+    {
+      "ID": "PresenceOfMind",
+      "EMOJIREVEALER": "\\:PresenceOfMind:",
+      "EMOJICODE": "<:PresenceOfMind:915358648094584873>",
+      "KEY": 8009
+    },
+    {
+      "ID": "LegendAlacrity",
+      "EMOJIREVEALER": "\\:LegendAlacrity:",
+      "EMOJICODE": "<:LegendAlacrity:915358347664949268>",
+      "KEY": 9104
+    },
+    {
+      "ID": "LegendTenacity",
+      "EMOJIREVEALER": "\\:LegendTenacity:",
+      "EMOJICODE": "<:LegendTenacity:915358347463655489>",
+      "KEY": 9105
+    },
+    {
+      "ID": "LegendBloodline",
+      "EMOJIREVEALER": "\\:LegendBloodline:",
+      "EMOJICODE": "<:LegendBloodline:915358347715285082>",
+      "KEY": 9103
+    },
+    {
+      "ID": "CoupDeGrace",
+      "EMOJIREVEALER": "\\:CoupDeGrace:",
+      "EMOJICODE": "<:CoupDeGrace:915358346817716276>",
+      "KEY": 8014
+    },
+    {
+      "ID": "CutDown",
+      "EMOJIREVEALER": "\\:CutDown:",
+      "EMOJICODE": "<:CutDown:915358347207786516>",
+      "KEY": 8017
+    },
+    {
+      "ID": "LastStand",
+      "EMOJIREVEALER": "\\:LastStand:",
+      "EMOJICODE": "<:LastStand:915358347648176209>",
+      "KEY": 8299
+    },
+    {
+      "ID": "Resolve",
+      "EMOJIREVEALER": "\\:Resolve:",
+      "EMOJICODE": "<:Resolve:915358346641539134>",
+      "KEY": 8400
+    },
+    {
+      "ID": "GraspOfTheUndying",
+      "EMOJIREVEALER": "\\:GraspOfTheUndying:",
+      "EMOJICODE": "<:GraspOfTheUndying:915358348466081892>",
+      "KEY": 8437
+    },
+    {
+      "ID": "Aftershock",
+      "EMOJIREVEALER": "\\:Aftershock:",
+      "EMOJICODE": "<:Aftershock:915358648107171841>",
+      "KEY": 8439
+    },
+    {
+      "ID": "Guardian",
+      "EMOJIREVEALER": "\\:Guardian:",
+      "EMOJICODE": "<:Guardian:915358348419952650>",
+      "KEY": 8465
+    },
+    {
+      "ID": "Demolish",
+      "EMOJIREVEALER": "\\:Demolish:",
+      "EMOJICODE": "<:Demolish:915358346838700063>",
+      "KEY": 8446
+    },
+    {
+      "ID": "FontOfLife",
+      "EMOJIREVEALER": "\\:FontOfLife:",
+      "EMOJICODE": "<:FontOfLife:915358347383935026>",
+      "KEY": 8463
+    },
+    {
+      "ID": "ShieldBash",
+      "EMOJIREVEALER": "\\:ShieldBash:",
+      "EMOJICODE": "<:ShieldBash:915358347908235294>",
+      "KEY": 8401
+    },
+    {
+      "ID": "Conditioning",
+      "EMOJIREVEALER": "\\:Conditioning:",
+      "EMOJICODE": "<:Conditioning:915358346805133396>",
+      "KEY": 8429
+    },
+    {
+      "ID": "SecondWind",
+      "EMOJIREVEALER": "\\:SecondWind:",
+      "EMOJICODE": "<:SecondWind:915358647750623263>",
+      "KEY": 8444
+    },
+    {
+      "ID": "BonePlating",
+      "EMOJIREVEALER": "\\:BonePlating:",
+      "EMOJICODE": "<:BonePlating:915358347438481489>",
+      "KEY": 8473
+    },
+    {
+      "ID": "Overgrowth",
+      "EMOJIREVEALER": "\\:Overgrowth:",
+      "EMOJICODE": "<:Overgrowth:915358347811758190>",
+      "KEY": 8451
+    },
+    {
+      "ID": "Revitalize",
+      "EMOJIREVEALER": "\\:Revitalize:",
+      "EMOJICODE": "<:Revitalize:915358648019066890>",
+      "KEY": 8453
+    },
+    {
+      "ID": "Unflinching",
+      "EMOJIREVEALER": "\\:Unflinching:",
+      "EMOJICODE": "<:Unflinching:915358648027447337>",
+      "KEY": 8242
+    },
+    {
+      "ID": "Sorcery",
+      "EMOJIREVEALER": "\\:Sorcery:",
+      "EMOJICODE": "<:Sorcery:915358346909978634>",
+      "KEY": 8200
+    },
+    {
+      "ID": "SummonAery",
+      "EMOJIREVEALER": "\\:SummonAery:",
+      "EMOJICODE": "<:SummonAery:915358648274927638>",
+      "KEY": 8214
+    },
+    {
+      "ID": "ArcaneComet",
+      "EMOJIREVEALER": "\\:ArcaneComet:",
+      "EMOJICODE": "<:ArcaneComet:915358348440895529>",
+      "KEY": 8229
+    },
+    {
+      "ID": "PhaseRush",
+      "EMOJIREVEALER": "\\:PhaseRush:",
+      "EMOJICODE": "<:PhaseRush:915358648052641792>",
+      "KEY": 8230
+    },
+    {
+      "ID": "NullifyingOrb",
+      "EMOJIREVEALER": "\\:NullifyingOrb:",
+      "EMOJICODE": "<:NullifyingOrb:915375099253784668>",
+      "KEY": 8224
+    },
+    {
+      "ID": "ManaflowBand",
+      "EMOJIREVEALER": "\\:ManaflowBand:",
+      "EMOJICODE": "<:ManaflowBand:915358347677548605>",
+      "KEY": 8226
+    },
+    {
+      "ID": "NimbusCloak",
+      "EMOJIREVEALER": "\\:NimbusCloak:",
+      "EMOJICODE": "<:NimbusCloak:915358347669168138>",
+      "KEY": 8275
+    },
+    {
+      "ID": "Transcendence",
+      "EMOJIREVEALER": "\\:Transcendence:",
+      "EMOJICODE": "<:Transcendence:915358647947755631>",
+      "KEY": 8210
+    },
+    {
+      "ID": "Celerity",
+      "EMOJIREVEALER": "\\:Celerity:",
+      "EMOJICODE": "<:Celerity:915358347119693894>",
+      "KEY": 8234
+    },
+    {
+      "ID": "AbsoluteFocus",
+      "EMOJIREVEALER": "\\:AbsoluteFocus:",
+      "EMOJICODE": "<:AbsoluteFocus:915358346947727370>",
+      "KEY": 8233
+    },
+    {
+      "ID": "Scorch",
+      "EMOJIREVEALER": "\\:Scorch:",
+      "EMOJICODE": "<:Scorch:915358647788388373>",
+      "KEY": 8237
+    },
+    {
+      "ID": "Waterwalking",
+      "EMOJIREVEALER": "\\:Waterwalking:",
+      "EMOJICODE": "<:Waterwalking:915358648291692586>",
+      "KEY": 8232
+    },
+    {
+      "ID": "GatheringStorm",
+      "EMOJIREVEALER": "\\:GatheringStorm:",
+      "EMOJICODE": "<:GatheringStorm:915358347111313419>",
+      "KEY": 8236
+    },
+    {
+      "ID": "StatModsHealthScalingIcon",
+      "EMOJIREVEALER": "\\:StatModsHealthScalingIcon:",
+      "EMOJICODE": "<:StatModsHealthScalingIcon:915406842119725126>",
+      "KEY": 5001
+    },
+    {
+      "ID": "StatModsArmorIcon",
+      "EMOJIREVEALER": "\\:StatModsArmorIcon:",
+      "EMOJICODE": "<:StatModsArmorIcon:915406842115530773>",
+      "KEY": 5002
+    },
+    {
+      "ID": "StatModsMagicResIcon",
+      "EMOJIREVEALER": "\\:StatModsMagicResIcon:",
+      "EMOJICODE": "<:StatModsMagicResIcon:915406841658351627>",
+      "KEY": 5003
+    },
+    {
+      "ID": "StatModsAttackSpeedIcon",
+      "EMOJIREVEALER": "\\:StatModsAttackSpeedIcon:",
+      "EMOJICODE": "<:StatModsAttackSpeedIcon:915406842224599101>",
+      "KEY": 5005
+    },
+    {
+      "ID": "StatModsCDRScalingIcon",
+      "EMOJIREVEALER": "\\:StatModsCDRScalingIcon:",
+      "EMOJICODE": "<:StatModsCDRScalingIcon:915406842119749672>",
+      "KEY": 5007
+    },
+    {
+      "ID": "StatModsAdaptiveForceIcon",
+      "EMOJIREVEALER": "\\:StatModsAdaptiveForceIcon:",
+      "EMOJICODE": "<:StatModsAdaptiveForceIcon:915406841830342717>",
+      "KEY": 5008
+    }
+   ]

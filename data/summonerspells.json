@@ -1,0 +1,98 @@
+[
+    {
+      "ID": "SummonerBarrier",
+      "EMOJIREVEALER": "\\:SummonerBarrier:",
+      "EMOJICODE": "<:SummonerBarrier:915422025047220264>",
+      "KEY": 21
+    },
+    {
+      "ID": "SummonerBoost",
+      "EMOJIREVEALER": "\\:SummonerBoost:",
+      "EMOJICODE": "<:SummonerBoost:915422025093369896>",
+      "KEY": 1
+    },
+    {
+      "ID": "SummonerDot",
+      "EMOJIREVEALER": "\\:SummonerDot:",
+      "EMOJICODE": "<:SummonerDot:915422025131098152>",
+      "KEY": 14
+    },
+    {
+      "ID": "SummonerExhaust",
+      "EMOJIREVEALER": "\\:SummonerExhaust:",
+      "EMOJICODE": "<:SummonerExhaust:915422024908828733>",
+      "KEY": 3
+    },
+    {
+      "ID": "SummonerFlash",
+      "EMOJIREVEALER": "\\:SummonerFlash:",
+      "EMOJICODE": "<:SummonerFlash:915422025051435019>",
+      "KEY": 4
+    },
+    {
+      "ID": "SummonerHaste",
+      "EMOJIREVEALER": "\\:SummonerHaste:",
+      "EMOJICODE": "<:SummonerHaste:915422025143701554>",
+      "KEY": 6
+    },
+    {
+      "ID": "SummonerHeal",
+      "EMOJIREVEALER": "\\:SummonerHeal:",
+      "EMOJICODE": "<:SummonerHeal:915422024883658873>",
+      "KEY": 7
+    },
+    {
+      "ID": "SummonerMana",
+      "EMOJIREVEALER": "\\:SummonerMana:",
+      "EMOJICODE": "<:SummonerMana:915422025185644554>",
+      "KEY": 13
+    },
+    {
+      "ID": "SummonerPoroRecall",
+      "EMOJIREVEALER": "\\:SummonerPoroRecall:",
+      "EMOJICODE": "<:SummonerPoroRecall:915422025315676182>",
+      "KEY": 30
+    },
+    {
+      "ID": "SummonerPoroThrow",
+      "EMOJIREVEALER": "\\:SummonerPoroThrow:",
+      "EMOJICODE": "<:SummonerPoroThrow:915422025206603776>",
+      "KEY": 31
+    },
+    {
+      "ID": "SummonerSmite",
+      "EMOJIREVEALER": "\\:SummonerSmite:",
+      "EMOJICODE": "<:SummonerSmite:915422025185648720>",
+      "KEY": 11
+    },
+    {
+      "ID": "SummonerSnowURFSnowball_Mark",
+      "EMOJIREVEALER": "\\:SummonerSnowURFSnowball_Mark:",
+      "EMOJICODE": "<:SummonerSnowURFSnowball_Mark:915422025047240765>",
+      "KEY": 39
+    },
+    {
+      "ID": "SummonerSnowball",
+      "EMOJIREVEALER": "\\:SummonerSnowball:",
+      "EMOJICODE": "<:SummonerSnowball:915422025202405418>",
+      "KEY": 32
+    },
+    {
+      "ID": "SummonerTeleport",
+      "EMOJIREVEALER": "\\:SummonerTeleport:",
+      "EMOJICODE": "<:SummonerTeleport:915422025265319946>",
+      "KEY": 12
+    },
+    {
+      "ID": "Summoner_UltBookPlaceholder",
+      "EMOJIREVEALER": "\\:Summoner_UltBookPlaceholder:",
+      "EMOJICODE": "<:Summoner_UltBookPlaceholder:915422025080799232>",
+      "KEY": 54
+    },
+    {
+      "ID": "Summoner_UltBookSmitePlaceholder",
+      "EMOJIREVEALER": "\\:Summoner_UltBookSmitePlaceholder:",
+      "EMOJICODE": "<:Summoner_UltBookSmitePlaceholder:915422025097560104>",
+      "KEY": 55
+    }
+   ]

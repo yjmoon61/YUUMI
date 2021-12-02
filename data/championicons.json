@@ -1,944 +1,944 @@
 [
     {
-        "id": "Amumu",
-        "key": "32",
-        "name": "Amumu",
-        "emoji": "<:Amumu:834821953919385671>"
+      "ID": "Aatrox",
+      "EMOJIREVEALER": "\\:Aatrox:",
+      "KEY": 266,
+      "EMOJICODE": "<:Aatrox:915338128296902666>"
     },
     {
-        "id": "Ashe",
-        "key": "22",
-        "name": "Ashe",
-        "emoji": "<:Ashe:834821954081914961>"
+      "ID": "Ahri",
+      "EMOJIREVEALER": "\\:Ahri:",
+      "KEY": 103,
+      "EMOJICODE": "<:Ahri:915338127755862147>"
     },
     {
-        "id": "Aatrox",
-        "key": "266",
-        "name": "Aatrox",
-        "emoji": "<:Aatrox:834821954312732672>"
+      "ID": "Akali",
+      "EMOJIREVEALER": "\\:Akali:",
+      "KEY": 84,
+      "EMOJICODE": "<:Akali:915338128166912031>"
     },
     {
-        "id": "Ahri",
-        "key": "103",
-        "name": "Ahri",
-        "emoji": "<:Ahri:834821954316926996>"
+      "ID": "Akshan",
+      "EMOJIREVEALER": "\\:Akshan:",
+      "KEY": 166,
+      "EMOJICODE": "<:Akshan:915338128259158027>"
     },
     {
-        "id": "Akshan",
-        "key": "166",
-        "name": "Akshan",
-        "emoji": "<:Akshan:915324992542097468>"
+      "ID": "Alistar",
+      "EMOJIREVEALER": "\\:Alistar:",
+      "KEY": 12,
+      "EMOJICODE": "<:Alistar:915338128166895636>"
     },
     {
-        "id": "AurelionSol",
-        "key": "136",
-        "name": "Aurelion Sol",
-        "emoji": "<:AurelionSol:834821954464251964>"
+      "ID": "Amumu",
+      "EMOJIREVEALER": "\\:Amumu:",
+      "KEY": 32,
+      "EMOJICODE": "<:Amumu:915338128183660674>"
     },
     {
-        "id": "Alistar",
-        "key": "12",
-        "name": "Alistar",
-        "emoji": "<:Alistar:834821954581823538>"
+      "ID": "Anivia",
+      "EMOJIREVEALER": "\\:Anivia:",
+      "KEY": 34,
+      "EMOJICODE": "<:Anivia:915338128280125501>"
     },
     {
-        "id": "Akali",
-        "key": "84",
-        "name": "Akali",
-        "emoji": "<:Akali:834821954707914863>"
+      "ID": "Annie",
+      "EMOJIREVEALER": "\\:Annie:",
+      "KEY": 1,
+      "EMOJICODE": "<:Annie:915338128284323850>"
     },
     {
-        "id": "Anivia",
-        "key": "34",
-        "name": "Anivia",
-        "emoji": "<:Anivia:834821954821029890>"
+      "ID": "Aphelios",
+      "EMOJIREVEALER": "\\:Aphelios:",
+      "KEY": 523,
+      "EMOJICODE": "<:Aphelios:915338128506642462>"
     },
     {
-        "id": "Aphelios",
-        "key": "523",
-        "name": "Aphelios",
-        "emoji": "<:Aphelios:834821954929164388>"
+      "ID": "Ashe",
+      "EMOJIREVEALER": "\\:Ashe:",
+      "KEY": 22,
+      "EMOJICODE": "<:Ashe:915338128254971924>"
     },
     {
-        "id": "Annie",
-        "key": "1",
-        "name": "Annie",
-        "emoji": "<:Annie:834821955193667606>"
+      "ID": "AurelionSol",
+      "EMOJIREVEALER": "\\:AurelionSol:",
+      "KEY": 136,
+      "EMOJICODE": "<:AurelionSol:915338128280145981>"
     },
     {
-        "id": "Braum",
-        "key": "201",
-        "name": "Braum",
-        "emoji": "<:Braum:834821977830326293>"
+      "ID": "Azir",
+      "EMOJIREVEALER": "\\:Azir:",
+      "KEY": 268,
+      "EMOJICODE": "<:Azir:915338129425178655>"
     },
     {
-        "id": "Azir",
-        "key": "268",
-        "name": "Azir",
-        "emoji": "<:Azir:834821978127859732>"
+      "ID": "Bard",
+      "EMOJIREVEALER": "\\:Bard:",
+      "KEY": 432,
+      "EMOJICODE": "<:Bard:915338129420988456>"
     },
     {
-        "id": "Chogath",
-        "key": "31",
-        "name": "Cho'Gath",
-        "emoji": "<:Chogath:834821978153943062>"
+      "ID": "Blitzcrank",
+      "EMOJIREVEALER": "\\:Blitzcrank:",
+      "KEY": 53,
+      "EMOJICODE": "<:Blitzcrank:915338128422760498>"
     },
     {
-        "id": "Brand",
-        "key": "63",
-        "name": "Brand",
-        "emoji": "<:Brand:834821978178453587>"
+      "ID": "Brand",
+      "EMOJIREVEALER": "\\:Brand:",
+      "KEY": 63,
+      "EMOJICODE": "<:Brand:915338128489844867>"
     },
     {
-        "id": "Cassiopeia",
-        "key": "69",
-        "name": "Cassiopeia",
-        "emoji": "<:Cassiopeia:834821978371915846>"
+      "ID": "Braum",
+      "EMOJIREVEALER": "\\:Braum:",
+      "KEY": 201,
+      "EMOJICODE": "<:Braum:915338129429381190>"
     },
     {
-        "id": "Camille",
-        "key": "164",
-        "name": "Camille",
-        "emoji": "<:Camille:834821978400620584>"
+      "ID": "Caitlyn",
+      "EMOJIREVEALER": "\\:Caitlyn:",
+      "KEY": 51,
+      "EMOJICODE": "<:Caitlyn:915338129609744425>"
     },
     {
-        "id": "Blitzcrank",
-        "key": "53",
-        "name": "Blitzcrank",
-        "emoji": "<:Blitzcrank:834821978548076604>"
+      "ID": "Camille",
+      "EMOJIREVEALER": "\\:Camille:",
+      "KEY": 164,
+      "EMOJICODE": "<:Camille:915338128645062676>"
     },
     {
-        "id": "Corki",
-        "key": "42",
-        "name": "Corki",
-        "emoji": "<:Corki:834821978786496584>"
+      "ID": "Cassiopeia",
+      "EMOJIREVEALER": "\\:Cassiopeia:",
+      "KEY": 69,
+      "EMOJICODE": "<:Cassiopeia:915338128594718730>"
     },
     {
-        "id": "Bard",
-        "key": "432",
-        "name": "Bard",
-        "emoji": "<:Bard:834821978845872128>"
+      "ID": "Chogath",
+      "EMOJIREVEALER": "\\:Chogath:",
+      "KEY": 31,
+      "EMOJICODE": "<:Chogath:915338129567793193>"
     },
     {
-        "id": "Caitlyn",
-        "key": "51",
-        "name": "Caitlyn",
-        "emoji": "<:Caitlyn:834821978861994004>"
+      "ID": "Corki",
+      "EMOJIREVEALER": "\\:Corki:",
+      "KEY": 42,
+      "EMOJICODE": "<:Corki:915338128296910909>"
     },
     {
-        "id": "Ekko",
-        "key": "245",
-        "name": "Ekko",
-        "emoji": "<:Ekko:834821998721892446>"
+      "ID": "Darius",
+      "EMOJIREVEALER": "\\:Darius:",
+      "KEY": 122,
+      "EMOJICODE": "<:Darius:915338129244815392>"
     },
     {
-        "id": "Ezreal",
-        "key": "81",
-        "name": "Ezreal",
-        "emoji": "<:Ezreal:834821998831206480>"
+      "ID": "Diana",
+      "EMOJIREVEALER": "\\:Diana:",
+      "KEY": 131,
+      "EMOJICODE": "<:Diana:915338128632467507>"
     },
     {
-        "id": "Draven",
-        "key": "119",
-        "name": "Draven",
-        "emoji": "<:Draven:834821998848901150>"
+      "ID": "Draven",
+      "EMOJIREVEALER": "\\:Draven:",
+      "KEY": 119,
+      "EMOJICODE": "<:Draven:915338129622306906>"
     },
     {
-        "id": "Diana",
-        "key": "131",
-        "name": "Diana",
-        "emoji": "<:Diana:834821998868693072>"
+      "ID": "DrMundo",
+      "EMOJIREVEALER": "\\:DrMundo:",
+      "KEY": 36,
+      "EMOJICODE": "<:DrMundo:915338129634893824>"
     },
     {
-        "id": "Fiora",
-        "key": "114",
-        "name": "Fiora",
-        "emoji": "<:Fiora:834821998873804850>"
+      "ID": "Ekko",
+      "EMOJIREVEALER": "\\:Ekko:",
+      "KEY": 245,
+      "EMOJICODE": "<:Ekko:915338129546838076>"
     },
     {
-        "id": "Fiddlesticks",
-        "key": "9",
-        "name": "Fiddlesticks",
-        "emoji": "<:Fiddlesticks:834821998878261298>"
+      "ID": "Elise",
+      "EMOJIREVEALER": "\\:Elise:",
+      "KEY": 60,
+      "EMOJICODE": "<:Elise:915338128837984306>"
     },
     {
-        "id": "Elise",
-        "key": "60",
-        "name": "Elise",
-        "emoji": "<:Elise:834821998978269214>"
+      "ID": "Evelynn",
+      "EMOJIREVEALER": "\\:Evelynn:",
+      "KEY": 28,
+      "EMOJICODE": "<:Evelynn:915338129592942592>"
     },
     {
-        "id": "DrMundo",
-        "key": "36",
-        "name": "Dr. Mundo",
-        "emoji": "<:DrMundo:834821999065956353>"
+      "ID": "Ezreal",
+      "EMOJIREVEALER": "\\:Ezreal:",
+      "KEY": 81,
+      "EMOJICODE": "<:Ezreal:915338129626525736>"
     },
     {
-        "id": "Evelynn",
-        "key": "28",
-        "name": "Evelynn",
-        "emoji": "<:Evelynn:834821999078539315>"
+      "ID": "Fiddlesticks",
+      "EMOJIREVEALER": "\\:Fiddlesticks:",
+      "KEY": 9,
+      "EMOJICODE": "<:Fiddlesticks:915338129223847977>"
     },
     {
-        "id": "Darius",
-        "key": "122",
-        "name": "Darius",
-        "emoji": "<:Darius:834821999230058557>"
+      "ID": "Fiora",
+      "EMOJIREVEALER": "\\:Fiora:",
+      "KEY": 114,
+      "EMOJICODE": "<:Fiora:915338128917663784>"
     },
     {
-        "id": "Garen",
-        "key": "86",
-        "name": "Garen",
-        "emoji": "<:Garen:834822019035693147>"
+      "ID": "Fizz",
+      "EMOJIREVEALER": "\\:Fizz:",
+      "KEY": 105,
+      "EMOJICODE": "<:Fizz:915338129081270333>"
     },
     {
-        "id": "Fizz",
-        "key": "105",
-        "name": "Fizz",
-        "emoji": "<:Fizz:834822019065315368>"
+      "ID": "Galio",
+      "EMOJIREVEALER": "\\:Galio:",
+      "KEY": 3,
+      "EMOJICODE": "<:Galio:915338129584562196>"
     },
     {
-        "id": "Graves",
-        "key": "104",
-        "name": "Graves",
-        "emoji": "<:Graves:834822019069640756>"
+      "ID": "Gangplank",
+      "EMOJIREVEALER": "\\:Gangplank:",
+      "KEY": 41,
+      "EMOJICODE": "<:Gangplank:915338129697804318>"
     },
     {
-        "id": "Gnar",
-        "key": "150",
-        "name": "Gnar",
-        "emoji": "<:Gnar:834822019085893632>"
+      "ID": "Garen",
+      "EMOJIREVEALER": "\\:Garen:",
+      "KEY": 86,
+      "EMOJICODE": "<:Garen:915338129341288459>"
     },
     {
-        "id": "Gangplank",
-        "key": "41",
-        "name": "Gangplank",
-        "emoji": "<:Gangplank:834822019127574530>"
+      "ID": "Gnar",
+      "EMOJIREVEALER": "\\:Gnar:",
+      "KEY": 150,
+      "EMOJICODE": "<:Gnar:915338129412620298>"
     },
     {
-        "id": "Hecarim",
-        "key": "120",
-        "name": "Hecarim",
-        "emoji": "<:Hecarim:834822019198877766>"
+      "ID": "Gragas",
+      "EMOJIREVEALER": "\\:Gragas:",
+      "KEY": 79,
+      "EMOJICODE": "<:Gragas:915338129609724004>"
     },
     {
-        "id": "Gwen",
-        "key": "887",
-        "name": "Gwen",
-        "emoji": "<:Gwen:834822019290759220>"
+      "ID": "Graves",
+      "EMOJIREVEALER": "\\:Graves:",
+      "KEY": 104,
+      "EMOJICODE": "<:Graves:915338129597153280>"
     },
     {
-        "id": "Galio",
-        "key": "3",
-        "name": "Galio",
-        "emoji": "<:Galio:834822019370450984>"
+      "ID": "Gwen",
+      "EMOJIREVEALER": "\\:Gwen:",
+      "KEY": 887,
+      "EMOJICODE": "<:Gwen:915338129769111572>"
     },
     {
-        "id": "Heimerdinger",
-        "key": "74",
-        "name": "Heimerdinger",
-        "emoji": "<:Heimerdinger:834822019467051078>"
+      "ID": "Hecarim",
+      "EMOJIREVEALER": "\\:Hecarim:",
+      "KEY": 120,
+      "EMOJICODE": "<:Hecarim:915338129597161502>"
     },
     {
-        "id": "Gragas",
-        "key": "79",
-        "name": "Gragas",
-        "emoji": "<:Gragas:834822019774283797>"
+      "ID": "Heimerdinger",
+      "EMOJIREVEALER": "\\:Heimerdinger:",
+      "KEY": 74,
+      "EMOJICODE": "<:Heimerdinger:915343874187223113>"
     },
     {
-        "id": "JarvanIV",
-        "key": "59",
-        "name": "Jarvan IV",
-        "emoji": "<:JarvanIV:834822041877610527>"
+      "ID": "Illaoi",
+      "EMOJIREVEALER": "\\:Illaoi:",
+      "KEY": 420,
+      "EMOJICODE": "<:Illaoi:915338129681047582>"
     },
     {
-        "id": "Illaoi",
-        "key": "420",
-        "name": "Illaoi",
-        "emoji": "<:Illaoi:834822041978535956>"
+      "ID": "Irelia",
+      "EMOJIREVEALER": "\\:Irelia:",
+      "KEY": 39,
+      "EMOJICODE": "<:Irelia:915338129811071037>"
     },
     {
-        "id": "Jax",
-        "key": "24",
-        "name": "Jax",
-        "emoji": "<:Jax:834822042095452160>"
+      "ID": "Ivern",
+      "EMOJIREVEALER": "\\:Ivern:",
+      "KEY": 427,
+      "EMOJICODE": "<:Ivern:915338129148375051>"
     },
     {
-        "id": "Ivern",
-        "key": "427",
-        "name": "Ivern",
-        "emoji": "<:Ivern:834822042162561055>"
+      "ID": "Janna",
+      "EMOJIREVEALER": "\\:Janna:",
+      "KEY": 40,
+      "EMOJICODE": "<:Janna:915338129026744381>"
     },
     {
-        "id": "Jayce",
-        "key": "126",
-        "name": "Jayce",
-        "emoji": "<:Jayce:834822042208829480>"
+      "ID": "JarvanIV",
+      "EMOJIREVEALER": "\\:JarvanIV:",
+      "KEY": 59,
+      "EMOJICODE": "<:JarvanIV:915338129752338504>"
     },
     {
-        "id": "Janna",
-        "key": "40",
-        "name": "Janna",
-        "emoji": "<:Janna:834822042397966376>"
+      "ID": "Jax",
+      "EMOJIREVEALER": "\\:Jax:",
+      "KEY": 24,
+      "EMOJICODE": "<:Jax:915338129702027284>"
     },
     {
-        "id": "Jhin",
-        "key": "202",
-        "name": "Jhin",
-        "emoji": "<:Jhin:834822042401767455>"
+      "ID": "Jayce",
+      "EMOJIREVEALER": "\\:Jayce:",
+      "KEY": 126,
+      "EMOJICODE": "<:Jayce:915338129500667964>"
     },
     {
-        "id": "Jinx",
-        "key": "222",
-        "name": "Jinx",
-        "emoji": "<:Jinx:834822042591035532>"
+      "ID": "Jhin",
+      "EMOJIREVEALER": "\\:Jhin:",
+      "KEY": 202,
+      "EMOJICODE": "<:Jhin:915338129492279407>"
     },
     {
-        "id": "Kaisa",
-        "key": "145",
-        "name": "Kai'Sa",
-        "emoji": "<:Kaisa:834822042708344832>"
+      "ID": "Jinx",
+      "EMOJIREVEALER": "\\:Jinx:",
+      "KEY": 222,
+      "EMOJICODE": "<:Jinx:915338129420984331>"
     },
     {
-        "id": "Irelia",
-        "key": "39",
-        "name": "Irelia",
-        "emoji": "<:Irelia:834822042728661032>"
+      "ID": "Kaisa",
+      "EMOJIREVEALER": "\\:Kaisa:",
+      "KEY": 145,
+      "EMOJICODE": "<:Kaisa:915338761691332658>"
     },
     {
-        "id": "Karthus",
-        "key": "30",
-        "name": "Karthus",
-        "emoji": "<:Karthus:834822105076858931>"
+      "ID": "Kalista",
+      "EMOJIREVEALER": "\\:Kalista:",
+      "KEY": 429,
+      "EMOJICODE": "<:Kalista:915338767391416351>"
     },
     {
-        "id": "Kayn",
-        "key": "141",
-        "name": "Kayn",
-        "emoji": "<:Kayn:834822105097961512>"
+      "ID": "Karma",
+      "EMOJIREVEALER": "\\:Karma:",
+      "KEY": 43,
+      "EMOJICODE": "<:Karma:915338767995396117>"
     },
     {
-        "id": "Kindred",
-        "key": "203",
-        "name": "Kindred",
-        "emoji": "<:Kindred:834822105219596309>"
+      "ID": "Karthus",
+      "EMOJIREVEALER": "\\:Karthus:",
+      "KEY": 30,
+      "EMOJICODE": "<:Karthus:915338768288993290>"
     },
     {
-        "id": "Kennen",
-        "key": "85",
-        "name": "Kennen",
-        "emoji": "<:Kennen:834822105249742911>"
+      "ID": "Kassadin",
+      "EMOJIREVEALER": "\\:Kassadin:",
+      "KEY": 38,
+      "EMOJICODE": "<:Kassadin:915338768289005599>"
     },
     {
-        "id": "Kalista",
-        "key": "429",
-        "name": "Kalista",
-        "emoji": "<:Kalista:834822105282379888>"
+      "ID": "Katarina",
+      "EMOJIREVEALER": "\\:Katarina:",
+      "KEY": 55,
+      "EMOJICODE": "<:Katarina:915338768259633162>"
     },
     {
-        "id": "Khazix",
-        "key": "121",
-        "name": "Kha'Zix",
-        "emoji": "<:Khazix:834822105362989156>"
+      "ID": "Kayle",
+      "EMOJIREVEALER": "\\:Kayle:",
+      "KEY": 10,
+      "EMOJICODE": "<:Kayle:915338767982788670>"
     },
     {
-        "id": "Karma",
-        "key": "43",
-        "name": "Karma",
-        "emoji": "<:Karma:834822105391956028>"
+      "ID": "Kayn",
+      "EMOJIREVEALER": "\\:Kayn:",
+      "KEY": 141,
+      "EMOJICODE": "<:Kayn:915338768255438848>"
     },
     {
-        "id": "Kassadin",
-        "key": "38",
-        "name": "Kassadin",
-        "emoji": "<:Kassadin:834822105404538961>"
+      "ID": "Kennen",
+      "EMOJIREVEALER": "\\:Kennen:",
+      "KEY": 85,
+      "EMOJICODE": "<:Kennen:915338768259625041>"
     },
     {
-        "id": "Kayle",
-        "key": "10",
-        "name": "Kayle",
-        "emoji": "<:Kayle:834822105425772564>"
+      "ID": "Khazix",
+      "EMOJIREVEALER": "\\:Khazix:",
+      "KEY": 121,
+      "EMOJICODE": "<:Khazix:915338768339329064>"
     },
     {
-        "id": "Katarina",
-        "key": "55",
-        "name": "Katarina",
-        "emoji": "<:Katarina:834822105794740284>"
+      "ID": "Kindred",
+      "EMOJIREVEALER": "\\:Kindred:",
+      "KEY": 203,
+      "EMOJICODE": "<:Kindred:915338768616128522>"
     },
     {
-        "id": "Kled",
-        "key": "240",
-        "name": "Kled",
-        "emoji": "<:Kled:834822128359440395>"
+      "ID": "Kled",
+      "EMOJIREVEALER": "\\:Kled:",
+      "KEY": 240,
+      "EMOJICODE": "<:Kled:915338768532267048>"
     },
     {
-        "id": "Lux",
-        "key": "99",
-        "name": "Lux",
-        "emoji": "<:Lux:834822128376479845>"
+      "ID": "KogMaw",
+      "EMOJIREVEALER": "\\:KogMaw:",
+      "KEY": 96,
+      "EMOJICODE": "<:KogMaw:915338768498708550>"
     },
     {
-        "id": "Lissandra",
-        "key": "127",
-        "name": "Lissandra",
-        "emoji": "<:Lissandra:834822128384868352>"
+      "ID": "Leblanc",
+      "EMOJIREVEALER": "\\:Leblanc:",
+      "KEY": 7,
+      "EMOJICODE": "<:Leblanc:915338768247029801>"
     },
     {
-        "id": "Leona",
-        "key": "89",
-        "name": "Leona",
-        "emoji": "<:Leona:834822128422486086>"
+      "ID": "LeeSin",
+      "EMOJIREVEALER": "\\:LeeSin:",
+      "KEY": 64,
+      "EMOJICODE": "<:LeeSin:915338768423194675>"
     },
     {
-        "id": "Lucian",
-        "key": "236",
-        "name": "Lucian",
-        "emoji": "<:Lucian:834822128443588608>"
+      "ID": "Leona",
+      "EMOJIREVEALER": "\\:Leona:",
+      "KEY": 89,
+      "EMOJICODE": "<:Leona:915338768234467330>"
     },
     {
-        "id": "Lulu",
-        "key": "117",
-        "name": "Lulu",
-        "emoji": "<:Lulu:834822128494575636>"
+      "ID": "Lillia",
+      "EMOJIREVEALER": "\\:Lillia:",
+      "KEY": 876,
+      "EMOJICODE": "<:Lillia:915338768720994324>"
     },
     {
-        "id": "Leblanc",
-        "key": "7",
-        "name": "LeBlanc",
-        "emoji": "<:Leblanc:834822128515153921>"
+      "ID": "Lissandra",
+      "EMOJIREVEALER": "\\:Lissandra:",
+      "KEY": 127,
+      "EMOJICODE": "<:Lissandra:915338768729374720>"
     },
     {
-        "id": "LeeSin",
-        "key": "64",
-        "name": "Lee Sin",
-        "emoji": "<:LeeSin:834822128762486834>"
+      "ID": "Lucian",
+      "EMOJIREVEALER": "\\:Lucian:",
+      "KEY": 236,
+      "EMOJICODE": "<:Lucian:915338768825872414>"
     },
     {
-        "id": "KogMaw",
-        "key": "96",
-        "name": "Kog'Maw",
-        "emoji": "<:KogMaw:834822129127260193>"
+      "ID": "Lulu",
+      "EMOJIREVEALER": "\\:Lulu:",
+      "KEY": 117,
+      "EMOJICODE": "<:Lulu:915338768771317832>"
     },
     {
-        "id": "Lillia",
-        "key": "876",
-        "name": "Lillia",
-        "emoji": "<:Lillia:834822129211539528>"
+      "ID": "Lux",
+      "EMOJIREVEALER": "\\:Lux:",
+      "KEY": 99,
+      "EMOJICODE": "<:Lux:915338768897146910>"
     },
     {
-        "id": "MonkeyKing",
-        "key": "62",
-        "name": "Wukong",
-        "emoji": "<:MonkeyKing:834822153894363248>"
+      "ID": "Malphite",
+      "EMOJIREVEALER": "\\:Malphite:",
+      "KEY": 54,
+      "EMOJICODE": "<:Malphite:915338768851026010>"
     },
     {
-        "id": "MissFortune",
-        "key": "21",
-        "name": "Miss Fortune",
-        "emoji": "<:MissFortune:834822154054271077>"
+      "ID": "Malzahar",
+      "EMOJIREVEALER": "\\:Malzahar:",
+      "KEY": 90,
+      "EMOJICODE": "<:Malzahar:915338768842649670>"
     },
     {
-        "id": "MasterYi",
-        "key": "11",
-        "name": "Master Yi",
-        "emoji": "<:MasterYi:834822154117447690>"
+      "ID": "Maokai",
+      "EMOJIREVEALER": "\\:Maokai:",
+      "KEY": 57,
+      "EMOJICODE": "<:Maokai:915338769014591548>"
     },
     {
-        "id": "Malphite",
-        "key": "54",
-        "name": "Malphite",
-        "emoji": "<:Malphite:834822154217455617>"
+      "ID": "MasterYi",
+      "EMOJIREVEALER": "\\:MasterYi:",
+      "KEY": 11,
+      "EMOJICODE": "<:MasterYi:915338768960090153>"
     },
     {
-        "id": "Nasus",
-        "key": "75",
-        "name": "Nasus",
-        "emoji": "<:Nasus:834822154222436472>"
+      "ID": "MissFortune",
+      "EMOJIREVEALER": "\\:MissFortune:",
+      "KEY": 21,
+      "EMOJICODE": "<:MissFortune:915338768561627137>"
     },
     {
-        "id": "Mordekaiser",
-        "key": "82",
-        "name": "Mordekaiser",
-        "emoji": "<:Mordekaiser:834822154368450600>"
+      "ID": "MonkeyKing",
+      "EMOJIREVEALER": "\\:MonkeyKing:",
+      "KEY": 62,
+      "EMOJICODE": "<:MonkeyKing:915338768964276334>"
     },
     {
-        "id": "Malzahar",
-        "key": "90",
-        "name": "Malzahar",
-        "emoji": "<:Malzahar:834822154440671303>"
+      "ID": "Mordekaiser",
+      "EMOJIREVEALER": "\\:Mordekaiser:",
+      "KEY": 82,
+      "EMOJICODE": "<:Mordekaiser:915338769052352573>"
     },
     {
-        "id": "Morgana",
-        "key": "25",
-        "name": "Morgana",
-        "emoji": "<:Morgana:834822154599661609>"
+      "ID": "Morgana",
+      "EMOJIREVEALER": "\\:Morgana:",
+      "KEY": 25,
+      "EMOJICODE": "<:Morgana:915338769006223370>"
     },
     {
-        "id": "Maokai",
-        "key": "57",
-        "name": "Maokai",
-        "emoji": "<:Maokai:834822154696654908>"
+      "ID": "Nami",
+      "EMOJIREVEALER": "\\:Nami:",
+      "KEY": 267,
+      "EMOJICODE": "<:Nami:915338769165615144>"
     },
     {
-        "id": "Nami",
-        "key": "267",
-        "name": "Nami",
-        "emoji": "<:Nami:834822155401035813>"
+      "ID": "Nasus",
+      "EMOJIREVEALER": "\\:Nasus:",
+      "KEY": 75,
+      "EMOJICODE": "<:Nasus:915338769429835776>"
     },
     {
-        "id": "Nunu",
-        "key": "20",
-        "name": "Nunu & Willump",
-        "emoji": "<:Nunu:834822181384093697>"
+      "ID": "Nautilus",
+      "EMOJIREVEALER": "\\:Nautilus:",
+      "KEY": 111,
+      "EMOJICODE": "<:Nautilus:915338768972648449>"
     },
     {
-        "id": "Poppy",
-        "key": "78",
-        "name": "Poppy",
-        "emoji": "<:Poppy:834822181413191731>"
+      "ID": "Neeko",
+      "EMOJIREVEALER": "\\:Neeko:",
+      "KEY": 518,
+      "EMOJICODE": "<:Neeko:915338769178198117>"
     },
     {
-        "id": "Ornn",
-        "key": "516",
-        "name": "Ornn",
-        "emoji": "<:Ornn:834822181778227290>"
+      "ID": "Nidalee",
+      "EMOJIREVEALER": "\\:Nidalee:",
+      "KEY": 76,
+      "EMOJICODE": "<:Nidalee:915338769270472784>"
     },
     {
-        "id": "Nocturne",
-        "key": "56",
-        "name": "Nocturne",
-        "emoji": "<:Nocturne:834822181779013632>"
+      "ID": "Nocturne",
+      "EMOJIREVEALER": "\\:Nocturne:",
+      "KEY": 56,
+      "EMOJICODE": "<:Nocturne:915338768838434877>"
     },
     {
-        "id": "Nidalee",
-        "key": "76",
-        "name": "Nidalee",
-        "emoji": "<:Nidalee:834822181921488976>"
+      "ID": "Nunu",
+      "EMOJIREVEALER": "\\:Nunu:",
+      "KEY": 20,
+      "EMOJICODE": "<:Nunu:915338768892960800>"
     },
     {
-        "id": "Orianna",
-        "key": "61",
-        "name": "Orianna",
-        "emoji": "<:Orianna:834822181950193684>"
+      "ID": "Olaf",
+      "EMOJIREVEALER": "\\:Olaf:",
+      "KEY": 2,
+      "EMOJICODE": "<:Olaf:915338769274662973>"
     },
     {
-        "id": "Pantheon",
-        "key": "80",
-        "name": "Pantheon",
-        "emoji": "<:Pantheon:834822182202769478>"
+      "ID": "Orianna",
+      "EMOJIREVEALER": "\\:Orianna:",
+      "KEY": 61,
+      "EMOJICODE": "<:Orianna:915338767060041740>"
     },
     {
-        "id": "Neeko",
-        "key": "518",
-        "name": "Neeko",
-        "emoji": "<:Neeko:834822182268960800>"
+      "ID": "Ornn",
+      "EMOJIREVEALER": "\\:Ornn:",
+      "KEY": 516,
+      "EMOJICODE": "<:Ornn:915338769350144060>"
     },
     {
-        "id": "Nautilus",
-        "key": "111",
-        "name": "Nautilus",
-        "emoji": "<:Nautilus:834822182274203670>"
+      "ID": "Pantheon",
+      "EMOJIREVEALER": "\\:Pantheon:",
+      "KEY": 80,
+      "EMOJICODE": "<:Pantheon:915338769471766578>"
     },
     {
-        "id": "Olaf",
-        "key": "2",
-        "name": "Olaf",
-        "emoji": "<:Olaf:834822182374342677>"
+      "ID": "Poppy",
+      "EMOJIREVEALER": "\\:Poppy:",
+      "KEY": 78,
+      "EMOJICODE": "<:Poppy:915338769438220358>"
     },
     {
-        "id": "Quinn",
-        "key": "133",
-        "name": "Quinn",
-        "emoji": "<:Quinn:834822217429942333>"
+      "ID": "Pyke",
+      "EMOJIREVEALER": "\\:Pyke:",
+      "KEY": 555,
+      "EMOJICODE": "<:Pyke:915338769111076905>"
     },
     {
-        "id": "RekSai",
-        "key": "421",
-        "name": "Rek'Sai",
-        "emoji": "<:RekSai:834822217727475712>"
+      "ID": "Qiyana",
+      "EMOJIREVEALER": "\\:Qiyana:",
+      "KEY": 246,
+      "EMOJICODE": "<:Qiyana:915338769429823539>"
     },
     {
-        "id": "Qiyana",
-        "key": "246",
-        "name": "Qiyana",
-        "emoji": "<:Qiyana:834822217727737967>"
+      "ID": "Quinn",
+      "EMOJIREVEALER": "\\:Quinn:",
+      "KEY": 133,
+      "EMOJICODE": "<:Quinn:915338769593401454>"
     },
     {
-        "id": "Riven",
-        "key": "92",
-        "name": "Riven",
-        "emoji": "<:Riven:834822217820799096>"
+      "ID": "Rakan",
+      "EMOJIREVEALER": "\\:Rakan:",
+      "KEY": 497,
+      "EMOJICODE": "<:Rakan:915338769622794250>"
     },
     {
-        "id": "Rell",
-        "key": "526",
-        "name": "Rell",
-        "emoji": "<:Rell:834822217871130635>"
+      "ID": "Rammus",
+      "EMOJIREVEALER": "\\:Rammus:",
+      "KEY": 33,
+      "EMOJICODE": "<:Rammus:915338769425641523>"
     },
     {
-        "id": "Rakan",
-        "key": "497",
-        "name": "Rakan",
-        "emoji": "<:Rakan:834822217903767562>"
+      "ID": "RekSai",
+      "EMOJIREVEALER": "\\:RekSai:",
+      "KEY": 421,
+      "EMOJICODE": "<:RekSai:915338769597607957>"
     },
     {
-        "id": "Rengar",
-        "key": "107",
-        "name": "Rengar",
-        "emoji": "<:Rengar:834822217904422952>"
+      "ID": "Rell",
+      "EMOJIREVEALER": "\\:Rell:",
+      "KEY": 526,
+      "EMOJICODE": "<:Rell:915338769694076928>"
     },
     {
-        "id": "Pyke",
-        "key": "555",
-        "name": "Pyke",
-        "emoji": "<:Pyke:834822218012950548>"
+      "ID": "Renekton",
+      "EMOJIREVEALER": "\\:Renekton:",
+      "KEY": 58,
+      "EMOJICODE": "<:Renekton:915343892109488218>"
     },
     {
-        "id": "Renekton",
-        "key": "58",
-        "name": "Renekton",
-        "emoji": "<:Renekton:834822218440638504>"
+      "ID": "Rengar",
+      "EMOJIREVEALER": "\\:Rengar:",
+      "KEY": 107,
+      "EMOJICODE": "<:Rengar:915338769585045564>"
     },
     {
-        "id": "Rammus",
-        "key": "33",
-        "name": "Rammus",
-        "emoji": "<:Rammus:834822218554933298>"
+      "ID": "Riven",
+      "EMOJIREVEALER": "\\:Riven:",
+      "KEY": 92,
+      "EMOJICODE": "<:Riven:915339029724164106>"
     },
     {
-        "id": "Rumble",
-        "key": "68",
-        "name": "Rumble",
-        "emoji": "<:Rumble:834822286087422032>"
+      "ID": "Rumble",
+      "EMOJIREVEALER": "\\:Rumble:",
+      "KEY": 68,
+      "EMOJICODE": "<:Rumble:915339029946433636>"
     },
     {
-        "id": "Shaco",
-        "key": "35",
-        "name": "Shaco",
-        "emoji": "<:Shaco:834822286146142263>"
+      "ID": "Ryze",
+      "EMOJIREVEALER": "\\:Ryze:",
+      "KEY": 13,
+      "EMOJICODE": "<:Ryze:915339030995038208>"
     },
     {
-        "id": "Shyvana",
-        "key": "102",
-        "name": "Shyvana",
-        "emoji": "<:Shyvana:834822286250737704>"
+      "ID": "Samira",
+      "EMOJIREVEALER": "\\:Samira:",
+      "KEY": 360,
+      "EMOJICODE": "<:Samira:915339032794398791>"
     },
     {
-        "id": "Sejuani",
-        "key": "113",
-        "name": "Sejuani",
-        "emoji": "<:Sejuani:834822286267514880>"
+      "ID": "Sejuani",
+      "EMOJIREVEALER": "\\:Sejuani:",
+      "KEY": 113,
+      "EMOJICODE": "<:Sejuani:915339033750671440>"
     },
     {
-        "id": "Ryze",
-        "key": "13",
-        "name": "Ryze",
-        "emoji": "<:Ryze:834822286342619177>"
+      "ID": "Senna",
+      "EMOJIREVEALER": "\\:Senna:",
+      "KEY": 235,
+      "EMOJICODE": "<:Senna:915339033746473000>"
     },
     {
-        "id": "Shen",
-        "key": "98",
-        "name": "Shen",
-        "emoji": "<:Shen:834822286343143434>"
+      "ID": "Seraphine",
+      "EMOJIREVEALER": "\\:Seraphine:",
+      "KEY": 147,
+      "EMOJICODE": "<:Seraphine:915339033821974588>"
     },
     {
-        "id": "Senna",
-        "key": "235",
-        "name": "Senna",
-        "emoji": "<:Senna:834822286472511530>"
+      "ID": "Sett",
+      "EMOJIREVEALER": "\\:Sett:",
+      "KEY": 875,
+      "EMOJICODE": "<:Sett:915339034006532136>"
     },
     {
-        "id": "Samira",
-        "key": "360",
-        "name": "Samira",
-        "emoji": "<:Samira:834822286552858684>"
+      "ID": "Shaco",
+      "EMOJIREVEALER": "\\:Shaco:",
+      "KEY": 35,
+      "EMOJICODE": "<:Shaco:915339033511620699>"
     },
     {
-        "id": "Sett",
-        "key": "875",
-        "name": "Sett",
-        "emoji": "<:Sett:834822286703591484>"
+      "ID": "Shen",
+      "EMOJIREVEALER": "\\:Shen:",
+      "KEY": 98,
+      "EMOJICODE": "<:Shen:915339033759076362>"
     },
     {
-        "id": "Seraphine",
-        "key": "147",
-        "name": "Seraphine",
-        "emoji": "<:Seraphine:834822286874902558>"
+      "ID": "Shyvana",
+      "EMOJIREVEALER": "\\:Shyvana:",
+      "KEY": 102,
+      "EMOJICODE": "<:Shyvana:915339033742303252>"
     },
     {
-        "id": "Skarner",
-        "key": "72",
-        "name": "Skarner",
-        "emoji": "<:Skarner:834822315542839347>"
+      "ID": "Singed",
+      "EMOJIREVEALER": "\\:Singed:",
+      "KEY": 27,
+      "EMOJICODE": "<:Singed:915339033780039720>"
     },
     {
-        "id": "Sion",
-        "key": "14",
-        "name": "Sion",
-        "emoji": "<:Sion:834822315568660521>"
+      "ID": "Sion",
+      "EMOJIREVEALER": "\\:Sion:",
+      "KEY": 14,
+      "EMOJICODE": "<:Sion:915339033905877002>"
     },
     {
-        "id": "Singed",
-        "key": "27",
-        "name": "Singed",
-        "emoji": "<:Singed:834822315590025257>"
+      "ID": "Sivir",
+      "EMOJIREVEALER": "\\:Sivir:",
+      "KEY": 15,
+      "EMOJICODE": "<:Sivir:915339033780052038>"
     },
     {
-        "id": "Syndra",
-        "key": "134",
-        "name": "Syndra",
-        "emoji": "<:Syndra:834822315610603551>"
+      "ID": "Skarner",
+      "EMOJIREVEALER": "\\:Skarner:",
+      "KEY": 72,
+      "EMOJICODE": "<:Skarner:915339033935237150>"
     },
     {
-        "id": "Swain",
-        "key": "50",
-        "name": "Swain",
-        "emoji": "<:Swain:834822315790696509>"
+      "ID": "Sona",
+      "EMOJIREVEALER": "\\:Sona:",
+      "KEY": 37,
+      "EMOJICODE": "<:Sona:915339033880715364>"
     },
     {
-        "id": "Soraka",
-        "key": "16",
-        "name": "Soraka",
-        "emoji": "<:Soraka:834822315844960306>"
+      "ID": "Soraka",
+      "EMOJIREVEALER": "\\:Soraka:",
+      "KEY": 16,
+      "EMOJICODE": "<:Soraka:915339033922662491>"
     },
     {
-        "id": "Sivir",
-        "key": "15",
-        "name": "Sivir",
-        "emoji": "<:Sivir:834822315912986644>"
+      "ID": "Swain",
+      "EMOJIREVEALER": "\\:Swain:",
+      "KEY": 50,
+      "EMOJICODE": "<:Swain:915339033801027585>"
     },
     {
-        "id": "Sona",
-        "key": "37",
-        "name": "Sona",
-        "emoji": "<:Sona:834822316185485372>"
+      "ID": "Sylas",
+      "EMOJIREVEALER": "\\:Sylas:",
+      "KEY": 517,
+      "EMOJICODE": "<:Sylas:915339033926828032>"
     },
     {
-        "id": "Sylas",
-        "key": "517",
-        "name": "Sylas",
-        "emoji": "<:Sylas:834822316227690506>"
+      "ID": "Syndra",
+      "EMOJIREVEALER": "\\:Syndra:",
+      "KEY": 134,
+      "EMOJICODE": "<:Syndra:915339033922666536>"
     },
     {
-        "id": "TahmKench",
-        "key": "223",
-        "name": "Tahm Kench",
-        "emoji": "<:TahmKench:834822316516704306>"
+      "ID": "TahmKench",
+      "EMOJIREVEALER": "\\:TahmKench:",
+      "KEY": 223,
+      "EMOJICODE": "<:TahmKench:915339034283376650>"
     },
     {
-        "id": "Trundle",
-        "key": "48",
-        "name": "Trundle",
-        "emoji": "<:Trundle:834822377308553227>"
+      "ID": "Taliyah",
+      "EMOJIREVEALER": "\\:Taliyah:",
+      "KEY": 163,
+      "EMOJICODE": "<:Taliyah:915339033910067240>"
     },
     {
-        "id": "Tryndamere",
-        "key": "23",
-        "name": "Tryndamere",
-        "emoji": "<:Tryndamere:834822377640296540>"
+      "ID": "Talon",
+      "EMOJIREVEALER": "\\:Talon:",
+      "KEY": 91,
+      "EMOJICODE": "<:Talon:915339033876504576>"
     },
     {
-        "id": "Teemo",
-        "key": "17",
-        "name": "Teemo",
-        "emoji": "<:Teemo:834822377674244096>"
+      "ID": "Taric",
+      "EMOJIREVEALER": "\\:Taric:",
+      "KEY": 44,
+      "EMOJICODE": "<:Taric:915339034115584020>"
     },
     {
-        "id": "Twitch",
-        "key": "29",
-        "name": "Twitch",
-        "emoji": "<:Twitch:834822377703342132>"
+      "ID": "Teemo",
+      "EMOJIREVEALER": "\\:Teemo:",
+      "KEY": 17,
+      "EMOJICODE": "<:Teemo:915339033763250258>"
     },
     {
-        "id": "Taric",
-        "key": "44",
-        "name": "Taric",
-        "emoji": "<:Taric:834822377757081690>"
+      "ID": "Thresh",
+      "EMOJIREVEALER": "\\:Thresh:",
+      "KEY": 412,
+      "EMOJICODE": "<:Thresh:915339034014933052>"
     },
     {
-        "id": "Thresh",
-        "key": "412",
-        "name": "Thresh",
-        "emoji": "<:Thresh:834822377887891467>"
+      "ID": "Tristana",
+      "EMOJIREVEALER": "\\:Tristana:",
+      "KEY": 18,
+      "EMOJICODE": "<:Tristana:915339034182713354>"
     },
     {
-        "id": "Tristana",
-        "key": "18",
-        "name": "Tristana",
-        "emoji": "<:Tristana:834822377945825355>"
+      "ID": "Trundle",
+      "EMOJIREVEALER": "\\:Trundle:",
+      "KEY": 48,
+      "EMOJICODE": "<:Trundle:915339034631503922>"
     },
     {
-        "id": "TwistedFate",
-        "key": "4",
-        "name": "Twisted Fate",
-        "emoji": "<:TwistedFate:834822378080698469>"
+      "ID": "Tryndamere",
+      "EMOJIREVEALER": "\\:Tryndamere:",
+      "KEY": 23,
+      "EMOJICODE": "<:Tryndamere:915339034270769242>"
     },
     {
-        "id": "Talon",
-        "key": "91",
-        "name": "Talon",
-        "emoji": "<:Talon:834822378142957679>"
+      "ID": "TwistedFate",
+      "EMOJIREVEALER": "\\:TwistedFate:",
+      "KEY": 4,
+      "EMOJICODE": "<:TwistedFate:915339033838768149>"
     },
     {
-        "id": "Taliyah",
-        "key": "163",
-        "name": "Taliyah",
-        "emoji": "<:Taliyah:834822378470768731>"
+      "ID": "Twitch",
+      "EMOJIREVEALER": "\\:Twitch:",
+      "KEY": 29,
+      "EMOJICODE": "<:Twitch:915339034249793546>"
     },
     {
-        "id": "Udyr",
-        "key": "77",
-        "name": "Udyr",
-        "emoji": "<:Udyr:834822418916573254>"
+      "ID": "Udyr",
+      "EMOJIREVEALER": "\\:Udyr:",
+      "KEY": 77,
+      "EMOJICODE": "<:Udyr:915339033893273672>"
     },
     {
-        "id": "Urgot",
-        "key": "6",
-        "name": "Urgot",
-        "emoji": "<:Urgot:834822418933088366>"
+      "ID": "Urgot",
+      "EMOJIREVEALER": "\\:Urgot:",
+      "KEY": 6,
+      "EMOJICODE": "<:Urgot:915339034384007168>"
     },
     {
-        "id": "Vayne",
-        "key": "67",
-        "name": "Vayne",
-        "emoji": "<:Vayne:834822419105054741>"
+      "ID": "Varus",
+      "EMOJIREVEALER": "\\:Varus:",
+      "KEY": 110,
+      "EMOJICODE": "<:Varus:915339034342068315>"
     },
     {
-        "id": "Viego",
-        "key": "234",
-        "name": "Viego",
-        "emoji": "<:Viego:834822419193528360>"
+      "ID": "Vayne",
+      "EMOJIREVEALER": "\\:Vayne:",
+      "KEY": 67,
+      "EMOJICODE": "<:Vayne:915339034581147708>"
     },
     {
-        "id": "Veigar",
-        "key": "45",
-        "name": "Veigar",
-        "emoji": "<:Veigar:834822419344392192>"
+      "ID": "Veigar",
+      "EMOJIREVEALER": "\\:Veigar:",
+      "KEY": 45,
+      "EMOJICODE": "<:Veigar:915339034295943198>"
     },
     {
-        "id": "Vex",
-        "key": "711",
-        "name": "Vex",
-        "emoji": "<:Vex:915325005917728800>"
+      "ID": "Velkoz",
+      "EMOJIREVEALER": "\\:Velkoz:",
+      "KEY": 161,
+      "EMOJICODE": "<:Velkoz:915339034400784444>"
     },
     {
-        "id": "Vladimir",
-        "key": "8",
-        "name": "Vladimir",
-        "emoji": "<:Vladimir:834822419352911892>"
+      "ID": "Vex",
+      "EMOJIREVEALER": "\\:Vex:",
+      "KEY": 711,
+      "EMOJICODE": "<:Vex:915339034451136532>"
     },
     {
-        "id": "Viktor",
-        "key": "112",
-        "name": "Viktor",
-        "emoji": "<:Viktor:834822419364708363>"
+      "ID": "Vi",
+      "EMOJIREVEALER": "\\:Vi:",
+      "KEY": 254,
+      "EMOJICODE": "<:Vi:915339034467926086>"
     },
     {
-        "id": "Velkoz",
-        "key": "161",
-        "name": "Vel'Koz",
-        "emoji": "<:Velkoz:834822419428016179>"
+      "ID": "Viego",
+      "EMOJIREVEALER": "\\:Viego:",
+      "KEY": 234,
+      "EMOJICODE": "<:Viego:915339034463723530>"
     },
     {
-        "id": "Vi",
-        "key": "254",
-        "name": "Vi",
-        "emoji": "<:Vi:834822419536412763>"
+      "ID": "Viktor",
+      "EMOJIREVEALER": "\\:Viktor:",
+      "KEY": 112,
+      "EMOJICODE": "<:Viktor:915339034174308434>"
     },
     {
-        "id": "Varus",
-        "key": "110",
-        "name": "Varus",
-        "emoji": "<:Varus:834822419948372018>"
+      "ID": "Vladimir",
+      "EMOJIREVEALER": "\\:Vladimir:",
+      "KEY": 8,
+      "EMOJICODE": "<:Vladimir:915339034472120340>"
     },
     {
-        "id": "Yuumi",
-        "key": "350",
-        "name": "Yuumi",
-        "emoji": "<:Yuumi:834822449593974825>"
+      "ID": "Volibear",
+      "EMOJIREVEALER": "\\:Volibear:",
+      "KEY": 106,
+      "EMOJICODE": "<:Volibear:915339034480488528>"
     },
     {
-        "id": "XinZhao",
-        "key": "5",
-        "name": "Xin Zhao",
-        "emoji": "<:XinZhao:834822449870012446>"
+      "ID": "Warwick",
+      "EMOJIREVEALER": "\\:Warwick:",
+      "KEY": 19,
+      "EMOJICODE": "<:Warwick:915339034484678656>"
     },
     {
-        "id": "Volibear",
-        "key": "106",
-        "name": "Volibear",
-        "emoji": "<:Volibear:834822449919950968>"
+      "ID": "Xayah",
+      "EMOJIREVEALER": "\\:Xayah:",
+      "KEY": 498,
+      "EMOJICODE": "<:Xayah:915339034618900520>"
     },
     {
-        "id": "Zac",
-        "key": "154",
-        "name": "Zac",
-        "emoji": "<:Zac:834822450058887188>"
+      "ID": "Xerath",
+      "EMOJIREVEALER": "\\:Xerath:",
+      "KEY": 101,
+      "EMOJICODE": "<:Xerath:915339034535022662>"
     },
     {
-        "id": "Yasuo",
-        "key": "157",
-        "name": "Yasuo",
-        "emoji": "<:Yasuo:834822450142642199>"
+      "ID": "XinZhao",
+      "EMOJIREVEALER": "\\:XinZhao:",
+      "KEY": 5,
+      "EMOJICODE": "<:XinZhao:915339034551812167>"
     },
     {
-        "id": "Warwick",
-        "key": "19",
-        "name": "Warwick",
-        "emoji": "<:Warwick:834822450402426941>"
+      "ID": "Yasuo",
+      "EMOJIREVEALER": "\\:Yasuo:",
+      "KEY": 157,
+      "EMOJICODE": "<:Yasuo:915339034560172032>"
     },
     {
-        "id": "Xerath",
-        "key": "101",
-        "name": "Xerath",
-        "emoji": "<:Xerath:834822450453676082>"
+      "ID": "Yone",
+      "EMOJIREVEALER": "\\:Yone:",
+      "KEY": 777,
+      "EMOJICODE": "<:Yone:915339034291736648>"
     },
     {
-        "id": "Xayah",
-        "key": "498",
-        "name": "Xayah",
-        "emoji": "<:Xayah:834822450477793320>"
+      "ID": "Yorick",
+      "EMOJIREVEALER": "\\:Yorick:",
+      "KEY": 83,
+      "EMOJICODE": "<:Yorick:915339034652442674>"
     },
     {
-        "id": "Yone",
-        "key": "777",
-        "name": "Yone",
-        "emoji": "<:Yone:834822450624593970>"
+      "ID": "Yuumi",
+      "EMOJIREVEALER": "\\:Yuumi:",
+      "KEY": 350,
+      "EMOJICODE": "<:Yuumi:915339152021671999>"
     },
     {
-        "id": "Yorick",
-        "key": "83",
-        "name": "Yorick",
-        "emoji": "<:Yorick:834822450675712071>"
+      "ID": "Zac",
+      "EMOJIREVEALER": "\\:Zac:",
+      "KEY": 154,
+      "EMOJICODE": "<:Zac:915339152629825617>"
     },
     {
-        "id": "Zoe",
-        "key": "142",
-        "name": "Zoe",
-        "emoji": "<:Zoe:834822492472213536>"
+      "ID": "Zed",
+      "EMOJIREVEALER": "\\:Zed:",
+      "KEY": 238,
+      "EMOJICODE": "<:Zed:915339152864714853>"
     },
     {
-        "id": "Ziggs",
-        "key": "115",
-        "name": "Ziggs",
-        "emoji": "<:Ziggs:834822492593061919>"
+      "ID": "Ziggs",
+      "EMOJIREVEALER": "\\:Ziggs:",
+      "KEY": 115,
+      "EMOJICODE": "<:Ziggs:915339152835358740>"
     },
     {
-        "id": "Zilean",
-        "key": "26",
-        "name": "Zilean",
-        "emoji": "<:Zilean:834822492697919528>"
+      "ID": "Zilean",
+      "EMOJIREVEALER": "\\:Zilean:",
+      "KEY": 26,
+      "EMOJICODE": "<:Zilean:915339152864739358>"
     },
     {
-        "id": "Zyra",
-        "key": "143",
-        "name": "Zyra",
-        "emoji": "<:Zyra:834822492710895636>"
+      "ID": "Zoe",
+      "EMOJIREVEALER": "\\:Zoe:",
+      "KEY": 142,
+      "EMOJICODE": "<:Zoe:915339152906657895>"
     },
     {
-        "id": "Zed",
-        "key": "238",
-        "name": "Zed",
-        "emoji": "<:Zed:834822493004759140>"
+      "ID": "Zyra",
+      "EMOJIREVEALER": "\\:Zyra:",
+      "KEY": 143,
+      "EMOJICODE": "<:Zyra:915339152814407730>"
     }
-]
+   ]
